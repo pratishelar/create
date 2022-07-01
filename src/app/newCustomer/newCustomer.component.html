@@ -1,0 +1,47 @@
+<div class="container-fluid h-100">
+  <div class="row h-100">
+    <div class="col-sm-9 customerform p-4">
+
+      <h4 class="mt-2 mb-2">New Customer</h4>
+
+      <ul class="nav nav-tabs" id="myTab">
+        <li class="nav-item">
+          <a class="nav-link active" id="Customer-tab" data-toggle="tab" href="#Customer" role="tab"
+            aria-controls="Customer" aria-selected="true" (click)="hideHomeInternet = true">Customer Account</a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link" id="Business-tab" data-toggle="tab" href="#Business" role="tab" aria-controls="Business"
+            aria-selected="false" (click)="hideHomeInternet = false">Business Account</a>
+        </li>
+        <div class="btn-group ml-auto" role="group">
+          <button type="button" class="btn btn-sm m-1" (click)="changeLineType('internet')"
+            [disabled]="lineType == 'internet'" [ngClass]="lineType == 'internet'? 'btn-primary':'btn-link'"
+            *ngIf="hideHomeInternet"> Home
+            Internet</button>
+          <button type="button" class="btn btn-sm m-1" (click)="changeLineType('prepaid')" [disabled]="lineType == 'prepaid'"
+            [ngClass]="lineType == 'prepaid'? 'btn-primary':'btn-link'">
+            Prepaid</button>
+          <button type="button" class="btn btn-sm m-1" (click)="changeLineType('postpaid')"
+            [disabled]="lineType == 'postpaid'" [ngClass]="lineType == 'postpaid'? 'btn-primary':'btn-link'">
+            Postpaid</button>
+        </div>
+      </ul>
+
+      <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="Customer" role="tabpanel" aria-labelledby="Customer-tab">
+          <app-customerAccount></app-customerAccount>
+        </div>
+        <div class="tab-pane fade" id="Business" role="tabpanel" aria-labelledby="Business-tab">
+          <app-BusinessAccount></app-BusinessAccount>
+        </div>
+      </div>
+
+      <button type="button" class="btn btn-primary btn-sm float-right mr-3"
+        *ngIf="lineType == 'internet' || lineType == 'prepaid'">Save and select number</button>
+    </div>
+
+    <div class="col-sm-3">
+      <app-sideCartPanel></app-sideCartPanel>
+    </div>
+  </div>
+</div>

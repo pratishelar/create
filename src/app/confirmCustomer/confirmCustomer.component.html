@@ -1,0 +1,77 @@
+<div class="container-fluid h-100">
+  <div class="row h-100">
+    <div class="col-sm-9 customerform">
+      <h4 class="m-4">Confirm Customer Information</h4>
+
+      <div class="row">
+        <div class="col">
+          <div class="row mb-2">
+            <div class="col">
+              <span class="label-heading">Account #:</span>
+            </div>
+            <div class="col">
+              <span class="label-values">{{customer.accountNumber}}</span>
+            </div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">First Name:</div>
+            <div class="col"><span class="label-values">{{customer.firstName}}</span></div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">Last Name:</div>
+            <div class="col"><span class="label-values">{{customer.lastName}}</span></div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">Home Phone:</div>
+            <div class="col"><span class="label-values">{{customer.homePhoneNumber}}</span></div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">Postal Code:</div>
+            <div class="col"><span class="label-values">{{customer.postalCode}}</span></div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="row mb-2">
+            <div class="col">
+              <span class="label-heading">Unit #:</span>
+            </div>
+            <div class="col"><span class="label-values">{{customer.unitNumber}}</span></div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">Street #:</div>
+            <div class="col"><span class="label-values">{{customer.streetNumber}}</span></div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">Street Name:</div>
+            <div class="col"><span class="label-values">{{customer.streetName}}</span></div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">City:</div>
+            <div class="col"><span class="label-values">{{customer.city}}</span></div>
+          </div>
+          <div class="row mb-2">
+            <div class="col label-heading">Province:</div>
+            <div class="col"><span class="label-values">{{customer.province}}</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="row mb-2">
+          <div class="col"></div>
+          <div class="col text-right">
+            <button type="button" class="btn btn-backward " name="button" style="margin-left: 0%;"
+              data-elemtype="button" routerLink="/search"><span>Back to Search</span></button>
+            <button type="button" class="btn btn-success confirm-customer-btn" name="button"
+              style="/* margin-right: 17%; */outline: none;float: right;margin-bottom: 13px;margin-left: 10px;"
+              data-elemtype="button"><span>Confirm Customer</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="col-sm-3">
+
+    </div>
+  </div>
+</div>

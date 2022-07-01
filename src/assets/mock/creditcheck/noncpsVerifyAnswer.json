@@ -1,0 +1,154 @@
+{
+  "firstName": "pratish",
+  "lastName": "shelar",
+  "contactMedium": [
+    {
+      "mediumCharacteristic": [
+        {
+          "emailAddress": "pratishshelar961992@gmail.com",
+          "phoneNumber": "9196231763"
+        }
+      ],
+      "type": "Mobile"
+    }
+  ],
+  "creditProfile": {
+    "creditCardExpiryMonth": "MM",
+    "customerIDType2": "SIN Card",
+    "customerIDType1": "Driver's License",
+    "creditCardCvv": "",
+    "customerIDRef1": "pshelar@apptium.com",
+    "creditCardNumber": "",
+    "creditCardExpiryYear": null,
+    "creditCardNumberMasked": "",
+    "customerIDRef2": "bonitouse"
+  },
+  "address": [
+    {
+      "country": "Canada",
+      "unit": "",
+      "streetName": "Bay Street",
+      "stateOrProvince": "ON",
+      "streetNumber": "33",
+      "city": "Toronto",
+      "isVerified": true,
+      "postcode": "M5J2Z3"
+    }
+  ],
+  "sessionStoreCode": "WCTRHQ01",
+  "Title": "Mr",
+  "cartSession": [{ "shoppingCart": { "serviceType": "Postpaid" } }],
+  "dateOfBirth": "1991-06-09",
+  "creditCheckMasterInfo": {
+    "ccStatus": "PendingVerification",
+    "salesLocation": "WCTRHQ01",
+    "creditDecision": {
+      "lastName": "SHELAR",
+      "firstName": "PRATISH",
+      "creditClass": "F",
+      "creditScore": 605,
+      "dateOfBirth": "03/07/2000",
+      "riskCodes": {
+        "risk": [
+          {
+            "attributes": {
+              "code": "04",
+              "description": "Medium Risk 3 - Postpaid"
+            }
+          }
+        ]
+      },
+      "alertCodes": {
+        "alert": [
+          {
+            "attributes": {
+              "code": "K",
+              "description": "INQUIRY/CREDIT FILE ADDRESS IS NEW WITHIN 30 DAYS"
+            }
+          }
+        ]
+      },
+      "creditDecisionType": "EQScoreComplete"
+    },
+    "riskCodes": {
+      "riskCode": [{ "code": "04", "description": "Medium Risk 3 - Postpaid" }]
+    },
+    "alertCodes": {
+      "alertCode": [
+        {
+          "code": "K",
+          "description": "INQUIRY/CREDIT FILE ADDRESS IS NEW WITHIN 30 DAYS"
+        }
+      ]
+    },
+    "salesChannel": "GW_STORE",
+    "creditDecisionType": "EQScoreComplete",
+    "secondaryIdType": "SIN Card",
+    "reasonCodes": { "reasonCode": [] },
+    "secondaryCreditDecision": {
+      "lastName": "shelar",
+      "firstName": "pratish",
+      "creditClass": "H",
+      "creditScore": 0,
+      "dateOfBirth": "1991/06/09",
+      "riskCodes": { "riskCode": [{ "code": "N1", "description": "Not Hit" }] },
+      "creditDecisionType": "TU"
+    },
+    "verificationQuestions": {
+      "question": [
+        {
+          "questionID": 1,
+          "questionText": "Your credit file indicates you may have a mortgage loan which was opened approximately May 2020. Please choose the credit provider for this account from the following options.",
+          "answerChoice": [
+            { "answerChoiceID": "1", "answerChoiceText": "ING BANK" },
+            { "answerChoiceID": "2", "answerChoiceText": "NATIONAL BANK" },
+            { "answerChoiceID": "3", "answerChoiceText": "ROYAL BANK" },
+            {
+              "answerChoiceID": "4",
+              "answerChoiceText": "STATE BANK OF INDIA"
+            },
+            { "answerChoiceID": "5", "answerChoiceText": "NONE OF THE ABOVE" }
+          ]
+        },
+        {
+          "questionID": 2,
+          "questionText": "Which of the following is your middle or former name?",
+          "answerChoice": [
+            { "answerChoiceID": "1", "answerChoiceText": "OUDEH" },
+            { "answerChoiceID": "2", "answerChoiceText": "OUDI" },
+            { "answerChoiceID": "3", "answerChoiceText": "OUTEDA" },
+            { "answerChoiceID": "4", "answerChoiceText": "OUTHWAITE" },
+            { "answerChoiceID": "5", "answerChoiceText": "NONE OF THE ABOVE" }
+          ]
+        },
+        {
+          "questionID": 3,
+          "questionText": "Your credit file indicates you may have an auto loan/lease which was opened approximately August 2016. Please choose the credit provider for this account from the following options.",
+          "answerChoice": [
+            {
+              "answerChoiceID": "1",
+              "answerChoiceText": "CITICAPITAL LTD./TOR"
+            },
+            { "answerChoiceID": "2", "answerChoiceText": "KIA CREDIT" },
+            {
+              "answerChoiceID": "3",
+              "answerChoiceText": "LAND ROVER FIN SERV"
+            },
+            { "answerChoiceID": "4", "answerChoiceText": "PRIMUS" },
+            { "answerChoiceID": "5", "answerChoiceText": "NONE OF THE ABOVE" }
+          ]
+        }
+      ]
+    },
+    "primaryIdType": "Driver's License",
+    "flowStatus": "VERIFYWITHQUESTIONS",
+    "transaction": {
+      "service": "eIDStartTransaction",
+      "externalId": "SHAWMOBILE-171064",
+      "transactionId": "0000000006370000004400062",
+      "gateway": "Equifax"
+    }
+  },
+  "salesChannel": "GW_STORE",
+  "status": "New"
+}

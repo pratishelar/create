@@ -1,0 +1,225 @@
+{
+  "lastName": "shelar",
+  "creditProfile": {
+    "customerIDType2": "SIN Card",
+    "customerIDType1": "Driver's License",
+    "customerIDRef1": "XXXXXXX@XXXXXXX.XXX",
+    "customerIDRef2": "bonitouse"
+  },
+  "contactMedium": [
+    {
+      "Customer_id": 16,
+      "id": 16,
+      "type": "Mobile",
+      "mediumCharacteristic": [
+        {
+          "emailAddress": "pratishshelar961992@gmail.com",
+          "phoneNumber": "9196231763",
+          "ContactMedium_id": 16,
+          "id": 16
+        }
+      ]
+    }
+  ],
+  "updatedBy": "pshelar@apptium.com",
+  "address": [
+    {
+      "country": "Canada",
+      "streetName": "Bay Street",
+      "unit": "",
+      "stateOrProvince": "ON",
+      "streetNumber": "33",
+      "city": "Toronto",
+      "isVerified": "true",
+      "Customer_id": 16,
+      "postcode": "M5J2Z3",
+      "id": 16
+    }
+  ],
+  "svCustNodeId": 5000172108,
+  "Title": "Mr",
+  "dateOfBirth": "1991/06/09",
+  "creditCheckMasterInfo": {
+    "customernumber": "DBC50002862774",
+    "ccStatus": "Error",
+    "svUpdateRetry": "0",
+    "answers": {
+      "answer": [
+        { "questionID": 1, "answerChoiceID": "5" },
+        { "questionID": 2, "answerChoiceID": "5" },
+        { "questionID": 3, "answerChoiceID": "5" }
+      ]
+    },
+    "salesLocation": "WCTRHQ01",
+    "creditDecision": {
+      "lastName": "SHELAR",
+      "firstName": "PRATISH",
+      "creditClass": "F",
+      "creditScore": 605,
+      "dateOfBirth": "03/07/2000",
+      "riskCodes": {
+        "risk": [
+          {
+            "attributes": {
+              "code": "04",
+              "description": "Medium Risk 3 - Postpaid"
+            }
+          }
+        ]
+      },
+      "alertCodes": {
+        "alert": [
+          {
+            "attributes": {
+              "code": "K",
+              "description": "INQUIRY/CREDIT FILE ADDRESS IS NEW WITHIN 30 DAYS"
+            }
+          }
+        ]
+      },
+      "creditDecisionType": "EQScoreComplete"
+    },
+    "riskCodes": {
+      "riskCode": [{ "code": "04", "description": "Medium Risk 3 - Postpaid" }]
+    },
+    "alertCodes": {
+      "alertCode": [
+        {
+          "code": "K",
+          "description": "INQUIRY/CREDIT FILE ADDRESS IS NEW WITHIN 30 DAYS"
+        }
+      ]
+    },
+    "salesChannel": "GW_STORE",
+    "depositOptions": {
+      "depositOption": [
+        {
+          "depositCreditRating": "DP2",
+          "depositAmountRequired": "300.00",
+          "maxPALines": "1",
+          "maxWINDtabAmount": "450.00"
+        },
+        {
+          "depositCreditRating": "DP1",
+          "depositAmountRequired": "150.00",
+          "maxPALines": "1",
+          "maxWINDtabAmount": "120.00"
+        },
+        {
+          "depositCreditRating": "DP0",
+          "depositAmountRequired": "50.00",
+          "maxPALines": "1",
+          "maxWINDtabAmount": "0.00"
+        }
+      ]
+    },
+    "creditDecisionType": "EQScoreComplete",
+    "secondaryIdType": "SIN Card",
+    "reasonCodes": { "reasonCode": [] },
+    "secondaryCreditDecision": {
+      "lastName": "shelar",
+      "firstName": "pratish",
+      "creditClass": "H",
+      "creditScore": 0,
+      "dateOfBirth": "09/06/1991",
+      "riskCodes": { "riskCode": [{ "code": "N1", "description": "Not Hit" }] },
+      "creditDecisionType": "TU"
+    },
+    "verificationQuestions": {
+      "question": [
+        {
+          "questionID": 1,
+          "questionText": "Your credit file indicates you may have a mortgage loan which was opened approximately May 2020. Please choose the credit provider for this account from the following options.",
+          "answerChoice": [
+            { "answerChoiceID": "1", "answerChoiceText": "ING BANK" },
+            { "answerChoiceID": "2", "answerChoiceText": "NATIONAL BANK" },
+            { "answerChoiceID": "3", "answerChoiceText": "ROYAL BANK" },
+            {
+              "answerChoiceID": "4",
+              "answerChoiceText": "STATE BANK OF INDIA"
+            },
+            { "answerChoiceID": "5", "answerChoiceText": "NONE OF THE ABOVE" }
+          ]
+        },
+        {
+          "questionID": 2,
+          "questionText": "Which of the following is your middle or former name?",
+          "answerChoice": [
+            { "answerChoiceID": "1", "answerChoiceText": "OUDEH" },
+            { "answerChoiceID": "2", "answerChoiceText": "OUDI" },
+            { "answerChoiceID": "3", "answerChoiceText": "OUTEDA" },
+            { "answerChoiceID": "4", "answerChoiceText": "OUTHWAITE" },
+            { "answerChoiceID": "5", "answerChoiceText": "NONE OF THE ABOVE" }
+          ]
+        },
+        {
+          "questionID": 3,
+          "questionText": "Your credit file indicates you may have an auto loan/lease which was opened approximately August 2016. Please choose the credit provider for this account from the following options.",
+          "answerChoice": [
+            {
+              "answerChoiceID": "1",
+              "answerChoiceText": "CITICAPITAL LTD./TOR"
+            },
+            { "answerChoiceID": "2", "answerChoiceText": "KIA CREDIT" },
+            {
+              "answerChoiceID": "3",
+              "answerChoiceText": "LAND ROVER FIN SERV"
+            },
+            { "answerChoiceID": "4", "answerChoiceText": "PRIMUS" },
+            { "answerChoiceID": "5", "answerChoiceText": "NONE OF THE ABOVE" }
+          ]
+        }
+      ]
+    },
+    "primaryIdType": "Driver's License",
+    "flowStatus": "DEPOSITS",
+    "custNodeId": 5000172108,
+    "transaction": {
+      "service": "eIDStartTransaction",
+      "externalId": "SHAWMOBILE-171064",
+      "transactionId": "0000000006370000004400062",
+      "gateway": "Equifax"
+    }
+  },
+  "updatedDate": "2022/06/28 15:35:45",
+  "maskedAccountNumber": "*********62774",
+  "svAccountName": "DBC50002862774",
+  "firstName": "pratish",
+  "createdDate": "2022/06/28 15:35:45",
+  "createdBy": "pshelar@apptium.com",
+  "custType": "GW CONSUMER",
+  "cartSession": [
+    {
+      "updatedBy": "pshelar@apptium.com",
+      "sessionStatus": "InProgress",
+      "sessionAbadoned": "true",
+      "updatedDate": 1656444945523,
+      "sessionId": "8b789166cae28b72",
+      "salesChannel": "GW_STORE",
+      "userID": "Pratish Shelar",
+      "sessionStartDate": 1656444945518,
+      "createdDate": 1656444945523,
+      "createdBy": "pshelar@apptium.com",
+      "Customer_id": 16,
+      "shoppingCart": {
+        "serviceType": "Postpaid",
+        "cartStatus": "DRAFT",
+        "updatedBy": "pshelar@apptium.com",
+        "createdDate": 1656444945524,
+        "createdBy": "pshelar@apptium.com",
+        "cartId": "0445da1cca94177a",
+        "validUntil": 1656704145518,
+        "CartSession_id": 30,
+        "id": 30,
+        "updatedDate": 1656444945524,
+        "cartTotalPrice": 0
+      },
+      "id": 30,
+      "storeLocationId": "WCTRHQ01"
+    }
+  ],
+  "id": 16,
+  "flowStatus": "DEPOSITS",
+  "status": "New",
+  "svContactId": "5000179678"
+}

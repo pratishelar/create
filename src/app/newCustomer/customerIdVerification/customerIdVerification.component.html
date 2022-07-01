@@ -1,0 +1,32 @@
+<div class="card">
+  <div class="card-body">
+    <h6 class="card-title"> <img src="../../../assets/img/orange_wings.png" class="mr-1"> Customer ID Verification</h6>
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputEmail4">Photo ID Type</label>
+        <select id="inputState" class="form-control form-control-sm" [disabled]="message == 'prepaid'">
+          <option selected>Select</option>
+          <option>...</option>
+        </select>
+      </div>
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">Reference Number</label>
+        <input class="form-control form-control-sm"  [disabled]="message == 'prepaid'">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputCity">Secondry ID Type</label>
+        <select class="form-control form-control-sm" [disabled]="message == 'prepaid'">
+          <option selected>Select</option>
+          <option>...</option>
+        </select>
+      </div>
+      <div class="form-group col-md-6">
+        <label>Secondry ID Reference Number</label>
+        <input class="form-control form-control-sm"  [disabled]="message == 'prepaid'">
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,54 @@
+<div class="card">
+  <div class="card-body">
+    <h6 class="card-title"> <img src="../../../assets/img/orange_wings.png" class="mr-1"> Customer Information</h6>
+    <div class="form-row">
+      <div class="form-group col-md-2">
+        <label for="inputState">Title</label>
+        <select id="inputState" class="form-control form-control-sm" required>
+          <option selected>Mr</option>
+          <option>Mrs</option>
+          <option>Miss</option>
+          <option>Ms</option>
+          <option>N/A</option>
+        </select>
+      </div>
+      <div class="form-group col-md-5">
+        <label for="firstname">First Name</label>
+        <input class="form-control form-control-sm" name="firstname" [(ngModel)]="firstname" OnlyChar required>
+      </div>
+      <div class="form-group col-md-5">
+        <label for="middlename">Middle Name</label>
+        <input class="form-control form-control-sm" name="middlename"  [(ngModel)]="middlename" OnlyChar>
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-5">
+        <label for="inputCity">Last Name</label>
+        <input class="form-control form-control-sm" name="lastname" [(ngModel)]="lastname" OnlyChar required>
+      </div>
+      <div class="form-group col-md-3">
+        <label for="inputState">DOB (YYYY)</label>
+        <select class="form-control form-control-sm">
+          <option value=""></option>
+          <option *ngFor='let count of counter(100) ; let i = index' id="{{2017-i}}" required>{{2017-i}}</option>
+        </select>
+      </div>
+      <div class="form-group col-md-2">
+        <label for="inputZip">MM</label>
+        <select class="form-control form-control-sm">
+          <option value=""></option>
+          <option *ngFor='let count of counter(12) ; let i = index' id="{{i+1}}" required>{{i+1}}</option>
+        </select>
+      </div>
+      <div class="form-group col-md-2">
+        <label for="inputZip">DD</label>
+        <select class="form-control form-control-sm">
+          <option value=""></option>
+          <option *ngFor='let count of counter(30) ;let i = index' id="{{i+1}}" required>{{i+1}}</option>
+        </select>
+      </div>
+    </div>
+
+  </div>
+</div>

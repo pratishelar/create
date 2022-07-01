@@ -1,0 +1,12 @@
+form {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+h5{
+    color: #ec7f23;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}

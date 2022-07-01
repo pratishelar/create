@@ -1,0 +1,11 @@
+.card-title{
+    color: #ec7c23;
+    font-size: 16px;
+    font-weight: 600 !important;
+  }
+
+  label{
+    color: #34363a;
+    font-size: 14px;
+    font-weight: 600 !important;
+  }

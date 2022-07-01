@@ -1,0 +1,26 @@
+{
+  "_ref": "51115888",
+  "customerSearchResult": [
+    {
+      "lastName": "Testher",
+      "homePhoneNumber": "9848022338",
+      "contactId": "51118126",
+      "streetNumber": "4364",
+      "city": "Vineland",
+      "postalCode": "L0R2C0",
+      "unitNumber": "",
+      "customerNodeId": "51115888",
+      "officialName": "Elle Testher",
+      "accountNumber": "DBC00511175531",
+      "birthDate": "1960-11-13T00:00:00.000Z",
+      "maskedAccountNumber": "*********75531",
+      "firstName": "Elle",
+      "customerType": "Consumer",
+      "streetName": "Yonge St",
+      "emailAddress": "s********@apptium.com",
+      "province": "Ontario",
+      "workPhoneNumber": ""
+    }
+  ],
+  "matches": 1
+}

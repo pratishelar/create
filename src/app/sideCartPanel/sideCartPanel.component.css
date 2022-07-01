@@ -1,0 +1,22 @@
+.label {
+  color: #00568c;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+p{
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+}
+h5{
+    display: block;
+    margin-top: 18px;
+    color: #00568c;
+    font-size: 14px;
+    font-weight: bold;
+}
+.sublabel{
+    color: #00568c;
+    font-size: 14px;
+}

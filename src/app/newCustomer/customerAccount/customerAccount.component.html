@@ -1,0 +1,31 @@
+<div class="container-fluid">
+  <form>
+    <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-6">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12 mt-3">
+            <app-customerInformation></app-customerInformation>
+          </div>
+          <div class="col-sm-12 col-md-12 col-lg-12 mt-3">
+            <app-contactInformation></app-contactInformation>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-12 col-lg-6" *ngIf="message == 'postpaid' || message == 'prepaid'">
+        <div class="row">
+          <div class="col-sm-12 mt-3">
+            <app-customerIdVerification></app-customerIdVerification>
+          </div>
+        </div>
+        <div class="form-group form-check">
+          <label class="form-check-label">
+            <input class="form-check-input" type="checkbox" name="remember" required> I have received consent from the
+            customer to run a credit check on their profile.
+          </label>
+        </div>
+        <button type="button" class="btn btn-sm btn-primary float-right m-2" [disabled]="message == 'prepaid'" (click)="noncps()">Proceed to
+          Credit Check</button>
+      </div>
+    </div>
+  </form>
+</div>

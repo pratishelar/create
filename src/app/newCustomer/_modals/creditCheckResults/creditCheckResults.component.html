@@ -1,0 +1,85 @@
+<!-- modal for creditcheck -->
+<div class="creditCheckModal" *ngIf="data.id == 'creditcheck'">
+  <div class="modal-header">
+    <h4 class="modal-title">Credit Check Result</h4>
+    <!-- <button type="button" class="close" aria-label="Close" (click)="activeModal.dismiss('Cross click')">
+    <span aria-hidden="true">&times;</span>
+  </button> -->
+  </div>
+  <div class="modal-body">
+    <div class="card-body">
+      <p class="card-text">The customer qualifies foor Poostpaid services with the account limits indicated below.</p>
+      <p class="card-text">My Tab Limit: {{data.body.mytablimit}}</p>
+      <p class="card-text">My Postpaid Services: {{data.body.mytablimit}}</p>
+      <p class="card-text">Eligible for TradeUp: {{data.body.mytablimit}}</p>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-primary"
+      (click)="activeModal.close('Close click')">{{data.footer}}</button>
+  </div>
+</div>
+
+<!-- modal for verification -->
+<div class="verifyAnswerModal" *ngIf="data.flowStatus == 'VERIFYWITHQUESTIONS'">
+  <div class="modal-header">
+    <h4 class="modal-title">Credit Check Result</h4>
+  </div>
+
+  <div class="modal-body">
+    <div class="card-body">
+      <div class="row">
+        <div class="col-sm-4" *ngFor="let ques of data.verificationQuestions.question; index as i">
+          <p class="card-text">{{ques.questionText}}</p>
+
+          <div class="form-check"
+            *ngFor="let ans of data.verificationQuestions.question[i].answerChoice; index as j">
+            <label class="form-check-label">
+              <input type="radio" id="option{{i}}{{j}}" class="form-check-input"
+                name="optradio{{i}}">{{ans.answerChoiceText}}
+            </label>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-primary" (click)="activeModal.close('Close click')">Skip</button>
+    <button type="button" class="btn btn-outline-primary" (click)="activeModal.close('Close click')">Verify</button>
+  </div>
+</div>
+
+
+
+<!-- modal for deposit -->
+<div class="verifyAnswerModal" *ngIf="data.id == 'DEPOSITS'">
+  <div class="modal-header">
+    <h4 class="modal-title">{{data.title}}</h4>
+  </div>
+
+  <div class="modal-body">
+    <div class="card-body">
+      <div class="row">
+        <div class="col-sm-4" *ngFor="let ques of data.body.question; let i = index;">
+          <p class="card-text">{{ques.questionText}}</p>
+
+          <div class="form-check" *ngFor="let ans of data.body.question[i].answerChoice">
+            <label class="form-check-label">
+              <input type="radio" class="form-check-input" name="optradio">{{ans.answerChoiceText}}
+            </label>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-primary"
+      (click)="activeModal.close('Close click')">{{data.footer.button1}}</button>
+    <button type="button" class="btn btn-outline-primary"
+      (click)="activeModal.close('Close click')">{{data.footer.button2}}</button>
+  </div>
+</div>
