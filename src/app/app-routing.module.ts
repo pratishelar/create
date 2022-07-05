@@ -1,20 +1,38 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { ConfirmCustomerComponent } from './confirmCustomer/confirmCustomer.component';
-import { BusinessAccountComponent } from './newCustomer/BusinessAccount/BusinessAccount.component';
-import { CustomerAccountComponent } from './newCustomer/customerAccount/customerAccount.component';
-import { NewCustomerComponent } from './newCustomer/newCustomer.component';
-import { SearchCustomerComponent } from './searchCustomer/searchCustomer.component';
-import { ConfirmCustomerResolver } from './_resolver/confirm-customer.resolver';
 
 const routes: Routes = [
-  { path: 'Customerlookup', component: SearchCustomerComponent },
-  { path: 'ConfirmCustomer', component: ConfirmCustomerComponent, resolve: { confirmCustomer: ConfirmCustomerResolver } },
-  { path: 'Newcustomer', component: NewCustomerComponent }
+  { path: '', redirectTo: '/Customerlookup', pathMatch: 'full' },
+  {
+    path: 'Customerlookup',
+    loadChildren: () =>
+      import('./searchCustomer/search.module').then((m) => m.SearchModule),
+  },
+  {
+    path: 'Newcustomer',
+    loadChildren: () =>
+      import('./newCustomer/newCustomerModule.module').then(
+        (m) => m.NewCustomerModule
+      ),
+  },
+  {
+    path: 'ConfirmCustomer',
+    loadChildren: () =>
+      import('./confirmCustomer/confirmCustomer.module').then(
+        (m) => m.ConfirmCustomerModule
+      ),
+  },
+
+  {
+    path: '**',
+    loadChildren: () =>
+      import('./searchCustomer/search.module').then((m) => m.SearchModule),
+    pathMatch: 'full',
+  },
 ];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
