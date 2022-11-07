@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
+import { Routes, RouterModule, PreloadAllModules } from '@angular/router';
 
 const routes: Routes = [
   { path: '', redirectTo: '/Customerlookup', pathMatch: 'full' },
@@ -22,7 +22,20 @@ const routes: Routes = [
         (m) => m.ConfirmCustomerModule
       ),
   },
-
+  {
+    path: 'CustomerDetailsAndLines',
+    loadChildren: () =>
+      import('./customerDetailsAndLines/customerDetailsAndLines.module').then(
+        (m) => m.CustomerDetailsAndLinesModule
+      ),
+  },
+  {
+    path: 'HardwareUpgrade',
+    loadChildren: () =>
+      import('./hardwareUpgrade/HardwareUpgrade.module').then(
+        (m) => m.HardwareUpgradeModule
+      ),
+  },
   {
     path: '**',
     loadChildren: () =>
@@ -32,7 +45,7 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [RouterModule.forRoot(routes, {preloadingStrategy: PreloadAllModules})],
   exports: [RouterModule],
 })
 export class AppRoutingModule {}
