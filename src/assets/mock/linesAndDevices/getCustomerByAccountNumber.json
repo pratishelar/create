@@ -1,0 +1,83 @@
+{
+  "CustomerInformation": [
+    {
+      "nodeName": "Elle Testher",
+      "papFlag": "FALSE",
+      "tabMaxBalance": "4000",
+      "billCycleDay": "05",
+      "customerNodeId": "1000021937",
+      "reportLevel": "Invoice",
+      "creditDecision": "Approved",
+      "BillingInformation": [
+        {
+          "scheduleName": "5th of the Month",
+          "currentCycleStart": "2022-11-05",
+          "currentCycleEnd": "2022-12-05",
+          "billCycleDay": "05",
+          "nextInvoiceDueDate": "2022-12-19"
+        }
+      ],
+      "customerType": "GW CONSUMER",
+      "tabMaxLines": "4",
+      "creditRatingCode": "12",
+      "priorityCode": "1",
+      "reportLevelCode": "1",
+      "creditRating": "A"
+    }
+  ],
+  "savedCreditCardDetails": {
+    "CustomerNodeId": "1000021937",
+    "isCreditCardSaved": "0"
+  },
+  "retrievePAP": {
+    "approvalToken": "FALSE",
+    "creditCardNumber": ""
+  },
+  "isNextEligible": "1",
+  "ContactInformation": [
+    {
+      "writtenLanguageCode": "1",
+      "country": "CANADA",
+      "writtenLanguage": "English",
+      "contactId": "1000023073",
+      "streetNumber": "4364",
+      "city": "Lincoln",
+      "givenNames": "Elle",
+      "homePhoneNR": "7565656565",
+      "postalCode": "L0R2C0",
+      "title": "Mr",
+      "officialName": "Elle Testher",
+      "birthDate": "1930-07-14",
+      "addressVerifiedCode": "1|2|2",
+      "emailAddress": "iannamalai@apptium.com",
+      "streetName": "Yonge Street",
+      "suite": "",
+      "provinceLong": "Ontario",
+      "contactStatus": "Subscriber",
+      "province": "ON",
+      "familyName": "Testher",
+      "spokenLanguageCode": "1",
+      "workPhoneNR": "",
+      "spokenLanguage": "English",
+      "contactStatusCode": "2"
+    }
+  ],
+  "responseCode": 1,
+  "AccountInformation": [
+    {
+      "depositRequiredAmount": "",
+      "accountNumber": "DBC10000475698",
+      "debtorBalance": "0",
+      "tabBalance": "696",
+      "depositReturnMethod": "",
+      "maskedAccountNumber": "*********75698",
+      "depositBalance": "",
+      "accountId": "1000047569",
+      "accountLastModifiedDate": "2022-10-21",
+      "balanceDate": "2022-10-21",
+      "unbilledBalance": "50.85",
+      "instAcctBalance": "",
+      "rvBalance": "0.0"
+    }
+  ]
+}

@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { Subject } from 'rxjs';
 
 import {
   HttpInterceptor,
@@ -16,10 +15,10 @@ export class LoaderInterceptor implements HttpInterceptor {
   constructor(private loader: LoaderService) {}
 
   intercept(req: HttpRequest<any>, next: HttpHandler) {
-    this.loader.show();
+    this.loader.setSpinner(true);
     return next.handle(req).pipe(
       delay(1000),
-      finalize(() => this.loader.hide())
+      finalize(() => this.loader.setSpinner(false))
     );
   }
 }

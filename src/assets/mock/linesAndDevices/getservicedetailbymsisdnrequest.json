@@ -1,0 +1,102 @@
+{
+  "sharedData": { "isEligibleParent": false },
+  "CustomerInformation": [
+    {
+      "nodeName": "Elle Testher",
+      "papFlag": "FALSE",
+      "tabMaxBalance": "4000",
+      "customerClassCode": "15",
+      "billCycleDay": "05",
+      "customerTypeCode": "2000422",
+      "customerNodeId": "1000021937",
+      "creditDecision": "Approved",
+      "BillingInformation": {
+        "scheduleName": "5th of the Month",
+        "currentCycleStart": "2022-11-05",
+        "currentCycleEnd": "2022-12-05",
+        "billCycleDay": "05",
+        "nextInvoiceDueDate": "2022-12-19"
+      },
+      "customerType": "Consumer",
+      "tabMaxLines": "4",
+      "creditRatingCode": "12",
+      "priorityCode": "1",
+      "reportLevelCode": "1"
+    }
+  ],
+  "ServiceInformation": [
+    {
+      "serviceType": "Postpaid",
+      "planValue": "95",
+      "serviceDevice": "iPhone 11 64GB White",
+      "planName": "Big Gig Unlimited + Talk 25GB",
+      "activationLocation": "WCTRHQ01",
+      "serviceIMEI": "356805118057720",
+      "serviceStatus": "Active",
+      "papPrepaidAmount": "",
+      "activeDate": "2022-10-21",
+      "serviceTypeId": 2000384,
+      "serviceId": 1000017059,
+      "msisdn": "6668874221",
+      "serviceStatusCode": "3",
+      "activationChannel": "GW_STORE",
+      "buyersRemorseEndDate": "2022-11-05",
+      "eSIMMatchingID": "",
+      "papPrepaidDate": ""
+    }
+  ],
+  "WarrantyInformation": [
+    {
+      "hwAddOnEligible": "0",
+      "hwProductDisplayName": "Phone Protection Plan",
+      "hwProductTierId": "1000429",
+      "hwProductTierName": "Phone Protection Plan 9",
+      "hwProductMRC": "9",
+      "hwProductName": "Phone Protection Plan",
+      "hwAddOnProvisioned": "1",
+      "hwEligFailReason": "Active Product"
+    }
+  ],
+  "ContactInformation": [
+    {
+      "writtenLanguageCode": "1",
+      "country": "CANADA",
+      "writtenLanguage": "English",
+      "contactId": "1000023073",
+      "streetNumber": "4364",
+      "city": "Lincoln",
+      "givenNames": "Elle",
+      "homePhoneNR": "7565656565",
+      "postalCode": "L0R2C0",
+      "title": "Mr",
+      "officialName": "Elle Testher",
+      "birthDate": "1930-07-14",
+      "addressVerifiedCode": "1|2|2",
+      "emailAddress": "iannamalai@apptium.com",
+      "streetName": "Yonge Street",
+      "suite": "",
+      "provinceLong": "Ontario",
+      "contactStatus": "Subscriber",
+      "province": "ON",
+      "familyName": "Testher",
+      "spokenLanguageCode": "1",
+      "workPhoneNR": "",
+      "spokenLanguage": "English",
+      "contactStatusCode": "2"
+    }
+  ],
+  "responseCode": 1,
+  "AccountInformation": [
+    {
+      "depositBalance": "0",
+      "accountLastModifiedDate": "2022-10-21",
+      "balanceDate": "2022-10-21",
+      "unbilledBalance": "50.85",
+      "accountNumber": "DBC10000475698",
+      "debtorBalance": "0",
+      "instAcctBalance": "",
+      "tabBalance": "696",
+      "depositReturnMethod": ""
+    }
+  ]
+}

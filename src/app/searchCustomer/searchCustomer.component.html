@@ -1,36 +1,36 @@
 <div class="container-fluid h-100">
-  <div class="row justify-content-center align-items-center h-100">
+  <div class="row justify-content-center h-100 pt-5">
     <div class="col col-sm-6 col-md-6 col-lg-4 col-xl-5">
       <form action="">
         <h5>Customer Search</h5>
         <div class="form-group">
           <label for="email">Mobile Number</label>
-          <input class="form-control" name="phoneNumber" placeholder="Mobile Number" maxlength="14" [(ngModel)]="phoneNumber" phoneNumber >
+          <input class="form-control form-control-sm" name="phoneNumber" placeholder="Mobile Number" maxlength="14" [(ngModel)]="phoneNumber" phoneNumber >
         </div>
-        <div class="text-center m-4">OR</div>
+        <div class="text-center m-2">or</div>
         <div class="form-group">
           <label for="pwd">Account Number</label>
-          <input class="form-control" name="accountNumber" placeholder="Account Number" [(ngModel)]="accountNumber">
+          <input class="form-control form-control-sm" name="accountNumber" placeholder="Account Number" [(ngModel)]="accountNumber">
         </div>
-        <div class="text-center m-4">OR</div>
+        <div class="text-center m-2">or</div>
         <div class="form-group">
           <div class="row">
             <div class="col">
               <label for="pwd">First Name</label>
-              <input type="text" class="form-control" id="email" placeholder="First Name" name="email">
+              <input type="text" class="form-control form-control-sm" id="email" placeholder="First Name" name="email">
             </div>
             <div class="col">
               <label for="pwd">Last Name</label>
-              <input type="password" class="form-control" placeholder="Last Name" name="pswd">
+              <input type="password" class="form-control form-control-sm" placeholder="Last Name" name="pswd">
             </div>
             <div class="col">
               <label for="pwd">Postal Code</label>
-              <input type="password" class="form-control" placeholder="Postal Code" name="pswd">
+              <input type="password" class="form-control form-control-sm" placeholder="Postal Code" name="pswd">
             </div>
           </div>
         </div>
-        <div class="text-right mt-5">
-          <button type="submit" class="btn btn-primary" (click)="search()">Search</button>
+        <div class="text-right mt-3">
+          <button type="submit" class="btn btn-sm btn-primary" (click)="search()">Search</button>
         </div>
       </form>
     </div>

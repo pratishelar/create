@@ -1,11 +1,12 @@
 <div class="mt-3">
-    <div class="accordion" id="accordionExample">
-        <div class="card">
-            <div class="card-header" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true">
-                <span class="title">Postpaid (666) 885-3959 / Big Gig Unlimited + Talk 25GB</span>
-                <span class="accicon"><i class="fas fa-angle-down rotate-icon"></i></span>
+    <div class="accordion" id="accordionExample" >
+        <div class="card" *ngFor="let service of Services;let i = index">
+            <div class="card-header {{ i==0 ? '' : 'collapsed' }} " data-toggle="collapse" [attr.data-target]="'#collapse' + i">
+                <span class="title">{{service.serviceType}} {{service.msisdn}}/ {{service.planName}}</span>
+                <span class="float-right">{{service.serviceStatus}}</span>
+                <span class="accicon"><i class="fas fa-angle-down rotate-icon"></i> </span>
             </div>
-            <div id="collapseOne" class="collapse show" data-parent="#accordionExample">
+            <div [attr.id]="'collapse' + i" class="collapse" data-parent="#accordionExample">
                 <div class="card-body">
                     <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                         <li class="nav-item" role="presentation">
@@ -22,7 +23,7 @@
                     <div class="tab-content" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
                             aria-labelledby="pills-home-tab">
-                            <app-phone></app-phone>
+                            <app-phone [service]="service"></app-phone>
                         </div>
                         <div class="tab-pane fade" id="pills-profile" role="tabpanel"
                             aria-labelledby="pills-profile-tab">
@@ -32,6 +33,5 @@
                 </div>
             </div>
         </div>
-
     </div>
 </div>

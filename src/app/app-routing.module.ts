@@ -37,6 +37,13 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'ChangeRatePlan',
+    loadChildren: () =>
+      import('./changeRateplan/ChangeRateplan.module').then(
+        (m) => m.ChangeRateplanModule
+      ),
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./searchCustomer/search.module').then((m) => m.SearchModule),

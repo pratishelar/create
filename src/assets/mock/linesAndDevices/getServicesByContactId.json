@@ -1,0 +1,319 @@
+{
+  "Services": {
+    "Service": [
+      {
+        "serviceType": "Postpaid",
+        "planValue": 95,
+        "contactId": 1000023073,
+        "SmartTabDetail": {
+          "totalTabFinanceAmount": "696.00",
+          "totalTabFinancingDepletedAmount": "0.00",
+          "deviceSKU": "190199220560",
+          "totalUpfrontPayment": "0.00",
+          "totalTabFinancingBalanceAmount": "696.00",
+          "payOffDepletedPeriod": "0",
+          "deviceName": "iPhone 11 64GB White",
+          "tabStatus": "Active",
+          "subsidyMonthlyDepletion": "29.00",
+          "deviceIMEI": "356805118057720",
+          "discountedMSRP": "696.00",
+          "financingMonthlyInstallment": "18.63",
+          "tabHWUpgradeByCare": false,
+          "payOffPeriod": "24",
+          "tabEndDate": "2024-10-21",
+          "tabStartDate": "2022-10-21",
+          "payOffBalancePeriod": "24"
+        },
+        "planName": "Big Gig Unlimited + Talk 25GB",
+        "customerNodeId": 1000021937,
+        "accountNumber": "DBC10000475698",
+        "activationLocation": "WCTRHQ01",
+        "sharedData": {
+          "isEligibleParent": 0,
+          "parentServiceId": "",
+          "secondaryServiceId": ""
+        },
+        "serviceStatus": "Active",
+        "activeDate": "2022-10-21",
+        "serviceTypeId": 2000384,
+        "TabInformation": {
+          "tabEndDate": "2024-10-21",
+          "tabMonthlyFee": "18.63",
+          "tabImei": "356805118057720",
+          "tabStatus": "Active",
+          "tabBalance": "696.00",
+          "tabPeriodElapsed": "0",
+          "tabDeviceName": "iPhone 11 64GB White",
+          "tabStartDate": "2022-10-21"
+        },
+        "serviceId": 1000017059,
+        "msisdn": 6668874221,
+        "serviceStatusCode": 3,
+        "activationChannel": "GW_STORE",
+        "buyersRemorseEndDate": "2022-11-05",
+        "eSIMMatchingID": ""
+      },
+      {
+        "serviceType": "Postpaid",
+        "isDFOrder": "1",
+        "planValue": 120,
+        "inQueue": true,
+        "addons": [],
+        "contactId": "1000023073",
+        "showSIMSwap": "0",
+        "planName": "Big Gig Unlimited + Talk 30GB + 5GB Canada-U.S",
+        "customerNodeId": "1000021937",
+        "accountNumber": "DBC10000475698",
+        "showManageAddOns": "0",
+        "activationLocation": "WCTRHQ01",
+        "showCisReprint": "1",
+        "showHWU": "0",
+        "showCancelService": "0",
+        "showManageDevice": "0",
+        "serviceStatus": "Pending Fulfillment",
+        "TabInformation": {
+          "isTabPresent": "0",
+          "tabMonthlyFee": "0",
+          "tabStatus": "N/A"
+        },
+        "id": 2210,
+        "availService": [
+          {
+            "serviceType": "Postpaid",
+            "orderType": "DirectShip_Activation",
+            "agentId": "ssathananthan@apptium.com",
+            "selectedRatePlan": {
+              "rpDataDesc": "FREEDOM: 30GB (Fast LTE).  FREEDOM NATIONWIDE + U.S.: 5GB (Fast LTE).",
+              "includedFeatures": [],
+              "excludedFeatures": [],
+              "addedPromotion": [],
+              "rpTalkDesc": "FREEDOM NATIONWIDE + U.S.: Unlimited calls to Canada; Unlimited calls to U.S. from U.S.; Unlimited incoming calls",
+              "optedAddOns": [],
+              "rpTextDesc": "FREEDOM NATIONWIDE + U.S.: Unlimited global text, picture and video messaging",
+              "rpPrice": "120",
+              "id": 2210,
+              "ServiceDetails_id": 2210,
+              "rpDesc": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+              "rpName": "Big Gig Unlimited + Talk 30GB + 5GB Canada-U.S"
+            },
+            "orderId": "3442645",
+            "updatedDate": "2022/11/08 04:59:29",
+            "isPortIn": "false",
+            "GenerateCisResponse": {
+              "myTabPhoneSavings": "N/A",
+              "FullAddress": "4364 Yonge Street, Lincoln ON L0R2C0",
+              "MonthlyChargesArray": [
+                {
+                  "name": "",
+                  "value": ""
+                }
+              ],
+              "totalMyTabSavings": "N/A",
+              "ratePlanDetailsBlockArray": [
+                {
+                  "name": "Name",
+                  "value": "Big Gig Unlimited + Talk 30GB + 5GB Canada-U.S"
+                },
+                {
+                  "name": "Price",
+                  "value": "$120.00 / month"
+                },
+                {
+                  "name": "One-time Fees & Charges",
+                  "value": "A non-refundable Connection Fee (Activation) of $45.00 will be charged and applied to your first bill/month of service"
+                },
+                {
+                  "name": "Activated Promotion(s)",
+                  "value": "N/A"
+                }
+              ],
+              "totalMyTabCharge": "N/A",
+              "nextResidualAmount": "N/A",
+              "isMonthCustomer": "0",
+              "NewTotalMonthlyCharge": "N/A",
+              "creditLimitLabel": "$380.00",
+              "IncludedFeatures": "",
+              "DateTimestamp": "November 08, 2022",
+              "depositAmount": "Not Required",
+              "AmountYouPaidForDevice": "N/A",
+              "NewWINDTabBoost": "N/A",
+              "billingPeriod": "November 08, 2022 - January 04, 2023",
+              "YourWINDtabWillDecreaseby": "N/A",
+              "alternatePhoneNumber": "756-565-6565",
+              "selectedFeatureDeatils": [
+                {
+                  "featureName": "None Selected"
+                }
+              ],
+              "totalmytabamount": "N/A",
+              "PhoneProtectionPlan": "N/A",
+              "AddonSubTotal": "$0.00",
+              "newAddons": [
+                {
+                  "addOnPrice": "",
+                  "addOnName": "None Selected"
+                }
+              ],
+              "EmailAddress": "iannamalai@apptium.com",
+              "WINDtabPeriod": "1 Month",
+              "TotalMinimumMonthlyCharge": "$120.00",
+              "WINDtabMonthlyCharge": "N/A",
+              "RatePlanSubtotal": "$120.00",
+              "rpDesc": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+              "formattedServiceNumber": "666-886-6798",
+              "RatePlanSubtotalLabel": "$120.00 / month",
+              "agentId": "ssathananthan@apptium.com",
+              "addonChartCount": 0,
+              "myTabBonusSavings": "N/A",
+              "RatePlan": "Big Gig Unlimited + Talk 30GB + 5GB Canada-U.S",
+              "PaymentDueDate": "December 19, 2022",
+              "WINDtabMonthlyChargeLabel": "N/A",
+              "oldTotalMinimumMonthlyCharge": 0,
+              "msrp": "N/A",
+              "NewMinimumMonthlyCharge": "N/A",
+              "PaymentType": "Pay After",
+              "temporaryPhoneNumber": "N/A",
+              "ICCID": "To be confirmed upon Service activation**",
+              "commitmentEndDate": "December 07, 2022",
+              "oldFeatures": [],
+              "selectedPromoDetails": [],
+              "YourWINDtabBalance": "N/A",
+              "OldWINDtabBalance": "N/A",
+              "totalmonthlymytabcharge": "N/A",
+              "MonthlyMyTabSavings": "N/A",
+              "newFeatures": [
+                {
+                  "featureName": "None Selected"
+                }
+              ],
+              "IMEI": "To be confirmed upon Service activation**",
+              "Data": "FREEDOM: 30GB (Fast LTE).  FREEDOM NATIONWIDE + U.S.: 5GB (Fast LTE).",
+              "Text": "FREEDOM NATIONWIDE + U.S.: Unlimited global text, picture and video messaging",
+              "Talk": "FREEDOM NATIONWIDE + U.S.: Unlimited calls to Canada; Unlimited calls to U.S. from U.S.; Unlimited incoming calls",
+              "storeId": "WCTRHQ01",
+              "ReturnDepositAs": "N/A",
+              "selectedAddOnDetails": [
+                {
+                  "addOnCode": "None Selected",
+                  "addOnPriceToDisplayLabel": "",
+                  "addOnPriceToDisplay": ""
+                }
+              ],
+              "AccountNumber": "DBC10000475698",
+              "TotalMonthlyCharge": "$120.00",
+              "FullName": "Elle  Testher",
+              "now_date": "November 9, 2022",
+              "PhoneProtectionPlanPrice": "N/A",
+              "DeviceName": "Bring Your Own Phone"
+            },
+            "id": 2210,
+            "serviceId": "0",
+            "connectionFee": "45.00",
+            "updatedBy": "ssathananthan@apptium.com",
+            "serviceDetailResponse": {
+              "myTabPhoneSavings": "N/A",
+              "DeviceUnitPrice": "0.00",
+              "commitmentEndDate_cis": "December 07, 2022",
+              "myTabDecreaseBy": "N/A",
+              "totalMonthlyMyTabCharge": "N/A",
+              "totalMyTabSavings": "N/A",
+              "BillCyclePeriod": "11/05/2022 - 01/04/2023",
+              "myTabBonusSavings": "N/A",
+              "totalMyTabAmount": "N/A",
+              "paymentDueDate_cis": "December 19, 2022",
+              "totalMyTabCharge": "N/A",
+              "tabMonthlySavings": "N/A",
+              "agreementStartDate": "November 08, 2022",
+              "billingPeriod_cis": "November 08, 2022 - January 04, 2023",
+              "creditLimit": "380",
+              "tabMonthlyFee": "N/A",
+              "id": 2210,
+              "tabAmount": "0.00",
+              "ServiceDetails_id": 2210,
+              "NextBillDueDate": "12/19/2022",
+              "tabPeriod_cis": "1 Month"
+            },
+            "contactId": "1000023073",
+            "processQueue": {
+              "serviceType": "Postpaid",
+              "updatedBy": "ssathananthan@apptium.com",
+              "processStatus": "SUBMITTED",
+              "orderId": "3442645",
+              "channel": "WCTRHQ01",
+              "agentName": "ssathananthan@apptium.com",
+              "queueDateTime": "2022/11/08 04:58:02",
+              "updatedDate": "2022/11/08 04:59:29",
+              "userName": "ssathananthan@apptium.com",
+              "startDateTime": "2022/11/08 04:59:24",
+              "createdDate": "2022/11/08 04:58:02",
+              "createdBy": "ssathananthan@apptium.com",
+              "id": 337,
+              "processType": "DirectShip Activation",
+              "ServiceDetails_id": 2210,
+              "aactNumber": "DBC10000475698",
+              "msisdn": "6668866798"
+            },
+            "dateOfBirth": "1930/07/14",
+            "acctName": "DBC10000475698",
+            "storeId": "WCTRHQ01",
+            "custName": "Elle  Testher",
+            "agreementStartDt": "2022-11-08T09:58:02.617Z",
+            "versionNumber": "main,1|cis,13|sa,39",
+            "ppp": "NA",
+            "createdDate": "2022/11/08 04:58:02",
+            "phoneNumber": "7565656565",
+            "createdBy": "ssathananthan@apptium.com",
+            "custEmail": "iannamalai@apptium.com",
+            "custAddress": "4364 Yonge Street, Lincoln ON L0R2C0",
+            "tn": "6668866798",
+            "channelName": "GW_STORE",
+            "custNodeId": "1000021937"
+          }
+        ],
+        "msisdn": "6668866798",
+        "buyersRemorseEndDate": "N/A",
+        "WarrantyInformation": {
+          "pppPriceDisplay": "N/A"
+        }
+      }
+    ]
+  },
+  "wearables": {
+    "6668874221": {
+      "Service_obj": {
+        "serviceType": "N/A",
+        "planValue": "",
+        "contactId": "",
+        "showSIMSwap": "0",
+        "customerNodeId": "",
+        "planName": "N/A",
+        "accountNumber": "",
+        "showManageAddOns": "1",
+        "activationLocation": "",
+        "isWearable": "0",
+        "deviceCategory": "",
+        "showCancelService": "1",
+        "showManageDevice": "1",
+        "serviceStatus": "",
+        "activeDate": "",
+        "serviceTypeId": "",
+        "TabInformation": {
+          "eid": "N/A",
+          "tabMonthlyFee": "0",
+          "tabImei": "",
+          "tabBalance": "N/A",
+          "tabPeriodElapsed": "N/A",
+          "tabStatus": "",
+          "tabDeviceName": "N/A",
+          "tabStartDate": "N/A"
+        },
+        "serviceId": "",
+        "activationChannel": "",
+        "buyersRemorseEndDate": "N/A",
+        "eSIMMatchingID": "",
+        "serviceStatusCode": ""
+      }
+    }
+  },
+  "responseCode": 1
+}

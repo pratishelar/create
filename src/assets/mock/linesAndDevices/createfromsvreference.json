@@ -1,0 +1,49 @@
+{
+  "lastName": "Testher",
+  "contactMedium": [
+    {
+      "id": 3146,
+      "mediumCharacteristic": [
+        {
+          "emailAddress": "iannamalai@apptium.com",
+          "phoneNumber": "7565656565",
+          "id": 3146
+        }
+      ],
+      "type": "Home"
+    }
+  ],
+  "address": [
+    {
+      "country": "CANADA",
+      "streetName": "Yonge Street",
+      "stateOrProvince": "ON",
+      "streetNumber": "4364",
+      "city": "Lincoln",
+      "postcode": "L0R2C0",
+      "id": 3146
+    }
+  ],
+  "svCustNodeId": "1000021937",
+  "Title": "Mr",
+  "dateOfBirth": "1930-07-14",
+  "svAccountName": "DBC10000475698",
+  "firstName": "Elle",
+  "createdDate": "2022-11-10T03:27:17.812Z",
+  "createdBy": "pshelar@apptium.com",
+  "custType": "GW CONSUMER",
+  "cartSession": [
+    {
+      "sessionStartDate": "2022-11-10",
+      "sessionStatus": "InProgress",
+      "shoppingCart": {
+        "serviceType": "Postpaid",
+        "cartStatus": "DRAFT",
+        "validUntil": "2024-11-9"
+      }
+    }
+  ],
+  "id": 3146,
+  "status": "Existing",
+  "svContactId": "1000023073"
+}

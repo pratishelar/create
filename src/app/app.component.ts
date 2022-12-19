@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component } from '@angular/core';
-import { Subject } from 'rxjs';
+import { BehaviorSubject, Observable, Subject } from 'rxjs';
 import { LoaderService } from './_service/loader.service';
 
 @Component({
@@ -10,7 +10,11 @@ import { LoaderService } from './_service/loader.service';
 })
 export class AppComponent {
   title = 'create';
-  isLoading: Subject<boolean> = this.loader.isLoading;
+  isLoading$: Observable<boolean>;
 
   constructor(private loader: LoaderService, private http: HttpClient) {}
+
+  ngOnInit(){
+    this.isLoading$ = this.loader.isLoading$;
+  }
 }

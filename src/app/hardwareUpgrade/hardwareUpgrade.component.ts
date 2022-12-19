@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./hardwareUpgrade.component.css']
 })
 export class HardwareUpgradeComponent implements OnInit {
-
+  selectedCategory;
+  
   constructor() { }
 
   ngOnInit(): void {

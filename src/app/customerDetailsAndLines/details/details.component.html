@@ -6,7 +6,7 @@
         <label for="">Account</label>
       </div>
       <div class="col-sm-6  ">
-        <p>DBC2233132321321</p>
+        <p>{{AccountInformation?.accountNumber}}</p>
       </div>
     </div>
     <div class="row">
@@ -14,7 +14,7 @@
         <label>Customer Name:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>JSSSKmSu DOLUTgRk</p>
+        <p>{{ContactInformation?.officialName}}</p>
       </div>
     </div>
     <div class="row">
@@ -22,7 +22,7 @@
         <label>Address:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>73 Eastview Gate, Brampton, ON L6P 1N5</p>
+        <p>{{ ContactInformation?.streetNumber }}, {{ ContactInformation?.streetName }}, {{ ContactInformation?.city }}, {{ ContactInformation?.postalCode }}</p>
       </div>
     </div>
     <div class="row">
@@ -30,7 +30,7 @@
         <label>Primary Phone Number:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>(987) 654-3210</p>
+        <p>{{ ContactInformation?.homePhoneNR}}</p>
       </div>
     </div>
     <div class="row">
@@ -38,7 +38,7 @@
         <label>Email:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>cz_kganesan@freedommobile.ca</p>
+        <p>{{ ContactInformation?.emailAddress}}</p>
       </div>
     </div>
   </div>

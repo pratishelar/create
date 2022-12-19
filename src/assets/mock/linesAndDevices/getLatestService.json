@@ -1,0 +1,209 @@
+[
+  {
+    "serviceType": "Postpaid",
+    "orderType": "newline",
+    "agentId": "iannamalai@apptium.com",
+    "selectedRatePlan": {
+      "rpDataDesc": "FREEDOM: 25GB (Fast LTE).  FREEDOM NATIONWIDE: 2GB (Fast LTE).",
+      "includedFeatures": [
+        {
+          "selectedRatePlan_id": 2186,
+          "name": "International Roaming",
+          "id": 7772
+        },
+        {
+          "selectedRatePlan_id": 2186,
+          "name": "International Calling",
+          "id": 7773
+        },
+        { "selectedRatePlan_id": 2186, "name": "US Roaming", "id": 7774 },
+        {
+          "selectedRatePlan_id": 2186,
+          "name": "Nationwide Network",
+          "id": 7775
+        }
+      ],
+      "excludedFeatures": [],
+      "addedPromotion": [],
+      "rpTalkDesc": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls",
+      "optedAddOns": [
+        {
+          "selectedRatePlan_id": 2186,
+          "addOnCode": "Visual Voicemail",
+          "price": "4",
+          "name": "Visual Voicemail",
+          "id": 1778
+        }
+      ],
+      "rpTextDesc": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging",
+      "rpPrice": "95",
+      "id": 2186,
+      "ServiceDetails_id": 2186,
+      "rpDesc": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "rpName": "Big Gig Unlimited + Talk 25GB"
+    },
+    "orderId": "3441292",
+    "updatedDate": "2022/10/21 01:17:16",
+    "isPortIn": "false",
+    "nextResidualAmount": "207.00",
+    "GenerateCisResponse": {
+      "myTabPhoneSavings": "$249.00",
+      "FullAddress": "4364 Yonge Street, Lincoln ON L0R2C0",
+      "MonthlyChargesArray": [
+        { "name": "Rate Plan", "value": "$95.00" },
+        { "name": "Monthly MyTab Charge", "value": "$18.63" }
+      ],
+      "totalMyTabSavings": "$249.00",
+      "ratePlanDetailsBlockArray": [
+        { "name": "Name", "value": "Big Gig Unlimited + Talk 25GB" },
+        { "name": "Price", "value": "$95.00 / month" },
+        {
+          "name": "One-time Fees & Charges",
+          "value": "A non-refundable Connection Fee (Activation) of $45.00 will be charged and applied to your first bill/month of service"
+        },
+        { "name": "Activated Promotion(s)", "value": "N/A" }
+      ],
+      "totalMyTabCharge": "$447.00",
+      "nextResidualAmount": "$207.00",
+      "isMonthCustomer": "0",
+      "NewTotalMonthlyCharge": "N/A",
+      "creditLimitLabel": "$380.00",
+      "IncludedFeatures": "",
+      "DateTimestamp": "October 21, 2022",
+      "depositAmount": "Not Required",
+      "AmountYouPaidForDevice": "N/A",
+      "NewWINDTabBoost": "N/A",
+      "billingPeriod": "October 21, 2022 - December 04, 2022",
+      "YourWINDtabWillDecreaseby": "$29.01 / month",
+      "alternatePhoneNumber": "756-565-6565",
+      "selectedFeatureDeatils": [
+        { "featureName": "International Calling", "featureStatus": "On" },
+        { "featureName": "International Roaming", "featureStatus": "On" },
+        { "featureName": "Nationwide Network", "featureStatus": "On" },
+        { "featureName": "US Roaming", "featureStatus": "On" }
+      ],
+      "totalmytabamount": "$696.00",
+      "PhoneProtectionPlan": "Accepted",
+      "AddonSubTotal": "$13.00",
+      "newAddons": [
+        {
+          "selectedRatePlan_id": 2186,
+          "addOnCode": "Visual Voicemail",
+          "price": "4",
+          "name": "Visual Voicemail",
+          "id": 1778
+        }
+      ],
+      "EmailAddress": "iannamalai@apptium.com",
+      "WINDtabPeriod": "24 Months",
+      "TotalMinimumMonthlyCharge": "$113.63",
+      "WINDtabMonthlyCharge": "$18.63 / month",
+      "RatePlanSubtotal": "$95.00",
+      "rpDesc": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "formattedServiceNumber": "666-887-4221",
+      "RatePlanSubtotalLabel": "$95.00 / month",
+      "agentId": "iannamalai@apptium.com",
+      "addonChartCount": 0,
+      "myTabBonusSavings": "N/A",
+      "RatePlan": "Big Gig Unlimited + Talk 25GB",
+      "PaymentDueDate": "November 19, 2022",
+      "WINDtabMonthlyChargeLabel": "$18.63 / month",
+      "oldTotalMinimumMonthlyCharge": 0,
+      "msrp": "$696.00",
+      "NewMinimumMonthlyCharge": "N/A",
+      "PaymentType": "Pay After",
+      "temporaryPhoneNumber": "N/A",
+      "ICCID": "8918900033010078925",
+      "commitmentEndDate": "October 19, 2024",
+      "oldFeatures": [],
+      "selectedPromoDetails": [],
+      "YourWINDtabBalance": "$696.00",
+      "OldWINDtabBalance": "N/A",
+      "totalmonthlymytabcharge": "$447.00",
+      "MonthlyMyTabSavings": "$10.38 / month",
+      "newFeatures": [
+        { "featureName": "International Calling", "featureStatus": "On" },
+        { "featureName": "International Roaming", "featureStatus": "On" },
+        { "featureName": "Nationwide Network", "featureStatus": "On" },
+        { "featureName": "US Roaming", "featureStatus": "On" }
+      ],
+      "IMEI": "356805118057720",
+      "Data": "FREEDOM: 25GB (Fast LTE).  FREEDOM NATIONWIDE: 2GB (Fast LTE).",
+      "Text": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging",
+      "Talk": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls",
+      "storeId": "WCTRHQ01",
+      "ReturnDepositAs": "N/A",
+      "selectedAddOnDetails": [
+        {
+          "addOnCode": "Visual Voicemail",
+          "addOnPriceToDisplayLabel": "$4.00 / month",
+          "addOnPriceToDisplay": "$4.00"
+        },
+        {
+          "addOnCode": "Phone Protection Plan",
+          "addOnPriceToDisplayLabel": "$9.00 / month",
+          "addOnPriceToDisplay": "$9.00"
+        },
+        { "addOnCode": "", "addOnPriceToDisplay": "" },
+        { "addOnCode": "", "addOnPriceToDisplay": "" }
+      ],
+      "AccountNumber": "DBC10000475698",
+      "TotalMonthlyCharge": "$126.63",
+      "FullName": "Elle  Testher",
+      "now_date": "November 9, 2022",
+      "PhoneProtectionPlanPrice": "9.00",
+      "DeviceName": "iPhone 11 64GB White"
+    },
+    "docuSignEnvelope": [],
+    "iccid": "8918900033010078925",
+    "id": 2186,
+    "serviceId": "1000017059",
+    "sku": "190199220560",
+    "connectionFee": "45.00",
+    "updatedBy": "iannamalai@apptium.com",
+    "isTabPresent": "1",
+    "serviceDetailResponse": {
+      "myTabPhoneSavings": "249.00",
+      "tabDepletionRate": "29.01",
+      "DeviceUnitPrice": "696.00",
+      "commitmentEndDate_cis": "October 19, 2024",
+      "myTabDecreaseBy": "$29.01",
+      "totalMonthlyMyTabCharge": "447.00",
+      "totalMyTabSavings": "249.00",
+      "BillCyclePeriod": "10/07/2022 - 12/04/2022",
+      "myTabBonusSavings": "0.00",
+      "totalMyTabAmount": "696.00",
+      "paymentDueDate_cis": "November 19, 2022",
+      "totalMyTabCharge": "447.00",
+      "tabMonthlySavings": "$10.38 / month",
+      "agreementStartDate": "October 21, 2022",
+      "upfrontPay": "0.00",
+      "billingPeriod_cis": "October 21, 2022 - December 04, 2022",
+      "creditLimit": "380",
+      "tabMonthlyFee": "18.63",
+      "id": 2186,
+      "tabAmount": "696.00",
+      "ServiceDetails_id": 2186,
+      "NextBillDueDate": "11/19/2022",
+      "tabPeriod_cis": "24 Months"
+    },
+    "contactId": "1000023073",
+    "dateOfBirth": "1930/07/14",
+    "acctName": "DBC10000475698",
+    "storeId": "WCTRHQ01",
+    "custName": "Elle  Testher",
+    "agreementStartDt": "2022-10-21T04:58:33.301Z",
+    "versionNumber": "main,1|cis,13|sa,39",
+    "ppp": "$9.00/mo",
+    "createdDate": "2022/10/21 00:58:33",
+    "phoneNumber": "7565656565",
+    "createdBy": "iannamalai@apptium.com",
+    "custEmail": "iannamalai@apptium.com",
+    "imei": "356805118057720",
+    "custAddress": "4364 Yonge Street, Lincoln ON L0R2C0",
+    "deviceModel": "iPhone 11 64GB White",
+    "tn": "6668874221",
+    "channelName": "GW_STORE",
+    "custNodeId": "1000021937"
+  }
+]

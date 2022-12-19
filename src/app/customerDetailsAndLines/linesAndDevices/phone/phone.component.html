@@ -1,72 +1,65 @@
 <div class="row phone">
   <div class="col-sm-6">
-    <h4>Service Information</h4>
+    <h6>Service Information</h6>
 
     <div class="row">
       <div class="col-sm-6  ">
         <label>Service Type:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>Postpaid</p>
+        <p>{{service?.serviceType}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Rate Plan:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>Big Gig Unlimited + Talk 25GB</p>
-      </div>
-
-
-      <div class="col-sm-6  ">
-        <label>Rate Plan:</label>
-      </div>
-      <div class="col-sm-6  ">
-        <p>Big Gig Unlimited + Talk 25GB</p>
+        <p>{{service?.planName}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Add-Ons:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>None Selected</p>
+        <p>{{ service?.addons ? service?.addons: 'None Selected' }}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Phone Protection Plan:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>$9.00</p>
+        <p>{{service?.PhoneProtectionPlanPrice ? service?.PhoneProtectionPlanPrice : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Monthly MyTab Charge:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>$ 55.00</p>
+        <p>{{service?.tabMonthlyFee?.tabMonthlyFee ? service?.tabMonthlyFee?.tabMonthlyFee : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Monthly Service Fee:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>$ 159.00</p>
+        <p>{{service?.TabInformation?.tabMonthlyFee ? service?.TabInformation?.tabMonthlyFee : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Activation Date:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>2022-05-01</p>
+        <p>{{service?.activeDate ? service?.activeDate : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <div class="dropdown">
-          <button class="btn btn-sm btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
+          <button class="btn btn-sm btn-primary dropdown-toggle" type="button" data-toggle="dropdown"
+            aria-expanded="false">
             Manage
           </button>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">Change Rateplans</a>
+            <a class="dropdown-item" routerLink="/ChangeRatePlan">Change Rateplans</a>
             <a class="dropdown-item" href="#">Manage Addons</a>
             <a class="dropdown-item" href="#">Redeem Promo Code</a>
           </div>
@@ -81,70 +74,70 @@
     </div>
   </div>
   <div class="col-sm-6">
-    <h4>Device Information</h4>
+    <h6>Device Information</h6>
 
     <div class="row">
       <div class="col-sm-6  ">
         <label>Device:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>iPhone 11 Pro 512GB Space Grey</p>
+        <p>{{service?.SmartTabDetail?.deviceName ? service?.SmartTabDetail?.deviceName : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>MyTab Balance Owing:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>$ 154.88</p>
+        <p>{{service?.SmartTabDetail?.totalTabFinancingBalanceAmount ? service?.SmartTabDetail?.totalTabFinancingBalanceAmount : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Last MyTab Update:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>22 Months</p>
+        <p>{{service?.payOffBalancePeriod ? service?.payOffBalancePeriod : 0 }} Months</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>MyTab Start Date:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>2022-05-01</p>
+        <p>{{service?.TabInformation?.tabStartDate ? service?.TabInformation?.tabStartDate : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Remorse Date:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>2022-05-01</p>
+        <p>{{service?.buyersRemorseEndDate ? service?.buyersRemorseEndDate : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>IMEI:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>353248106980822</p>
+        <p>{{service?.SmartTabDetail?.deviceIMEI ? service?.SmartTabDetail?.deviceIMEI : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>Tab Status:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>Active</p>
+        <p>{{service?.SmartTabDetail?.tabStatus ? service?.SmartTabDetail?.tabStatus : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>TradeUp Return Value:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>N/A</p>
+        <p>{{service?.activeDate ? service?.activeDate : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
         <label>TradeUp Return Date:</label>
       </div>
       <div class="col-sm-6  ">
-        <p>N/A</p>
+        <p>{{service?.SmartTabDetail?.totalTabFinanceAmount ? service?.SmartTabDetail?.totalTabFinanceAmount : 'N/A'}}</p>
       </div>
 
       <div class="col-sm-6  ">
@@ -157,5 +150,23 @@
 
 
     </div>
+
+    <div class="row mt-3">
+      <div class="col-sm-12">
+        <div class="card">
+          <div class="card-body">
+            <h6>Phone Protection Plan</h6>
+            <div class="row">
+              <div class="col-sm-9">
+                <p> Phone Protection Plan can be added to this service for $9.00 per month, as long as the service line
+                  is within 15 days of service activation or MyTab upgrade. Would you like to add it now?</p>
+              </div>
+              <div class="col-sm-3">
+                <button type="button" class="btn btn-primary btn-sm float-right"> Accept</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
-</div>

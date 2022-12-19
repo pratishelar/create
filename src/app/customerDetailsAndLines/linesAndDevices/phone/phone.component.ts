@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-phone',
@@ -6,10 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./phone.component.scss']
 })
 export class PhoneComponent implements OnInit {
-
+  @Input() service;
   constructor() { }
 
   ngOnInit() {
+    console.log(this.service);
   }
 
 }
