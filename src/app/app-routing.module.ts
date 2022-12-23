@@ -44,6 +44,13 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'PhoneNumberSelection',
+    loadChildren: () =>
+      import('./phoneNumberSelection/PhoneNumberSelection.module').then(
+        (m) => m.PhoneNumberSelectionModule
+      ),
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./searchCustomer/search.module').then((m) => m.SearchModule),
