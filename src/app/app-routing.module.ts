@@ -51,6 +51,13 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'DeviceSelection',
+    loadChildren: () =>
+      import('./deviceSelection/DeviceSelection.module').then(
+        (m) => m.DeviceSelectionModule
+      ),
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./searchCustomer/search.module').then((m) => m.SearchModule),
