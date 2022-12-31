@@ -1,0 +1,121 @@
+<div class="container-fluid h-100">
+  <div class="row h-100">
+    <div class="col-sm-9 customerform p-4">
+      <div class="row">
+        <div class="col-sm-7">
+          <h4>Select Rateplan</h4>
+        </div>
+        <div class="col-sm-5">
+          <h4>Select MyTab Options</h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-7 scrollbar">
+          <div id="accordion">
+            <div class="card" *ngFor="let rateplan of ratePlans; let i = index">
+              <div
+                class="card-header"
+                data-toggle="collapse"
+                [attr.data-target]="'#collapse' + i"
+                aria-expanded="false"
+                aria-controls="collapse{{ i }}"
+                id="heading{{ i }}"
+              >
+                <h5 class="mb-0">
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <label>{{ rateplan.name }}</label>
+                    </div>
+                    <div class="col-sm-3">
+                      <label>${{ rateplan.productOfferingPrice.price }}</label>
+                    </div>
+                    <div class="col-sm-3">
+                      <button type="button" class="btn btn-primary">
+                        Select plan
+                      </button>
+                    </div>
+                  </div>
+                </h5>
+              </div>
+
+              <div
+                [attr.id]="'collapse' + i"
+                class="collapse"
+                aria-labelledby="heading{{ i }}"
+                data-parent="#accordion"
+              >
+                <div class="card-body">
+                  <div
+                    class="row"
+                    *ngFor="
+                      let productSpecification of rateplan.productSpecification
+                        .productSpecificationChar
+                    "
+                  >
+                    <div class="col-sm-3">
+                      <p
+                        *ngIf="
+                          productSpecification.productSpecificationCharValue[0]
+                            .value &&
+                          productSpecification.productSpecificationCharValue[0]
+                            .value != '0'
+                        "
+                      >
+                        {{ productSpecification.name }}:
+                      </p>
+                    </div>
+                    <div class="col-sm-9">
+                      <p
+                        *ngIf="
+                          productSpecification.productSpecificationCharValue[0]
+                            .value &&
+                          productSpecification.productSpecificationCharValue[0]
+                            .value != '0'
+                        "
+                      >
+                        {{
+                          productSpecification.productSpecificationCharValue[0]
+                            .value
+                        }}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-5">
+          <button type="button" class="btn btn-primary disabled btn-block">
+            No MyTab
+          </button>
+        </div>
+      </div>
+
+      <div class="row mt-4">
+        <div class="col-sm-6">
+          <button
+            type="button"
+            class="btn btn-outline-primary btn float-left"
+            routerLink="/DeviceSelection"
+          >
+            Back to Device
+          </button>
+        </div>
+        <div class="col-sm-6">
+          <button
+            type="button"
+            class="btn btn-primary btn float-right"
+            routerLink="/DeviceSelection"
+          >
+            Save and continue to Addons
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-3">
+      <app-sideCartPanel></app-sideCartPanel>
+    </div>
+  </div>
+</div>

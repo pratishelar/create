@@ -58,6 +58,13 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'RatePlansNew',
+    loadChildren: () =>
+      import('./ratePlansSelection/ratePlansSelection.module').then(
+        (m) => m.RatePlansSelectionModule
+      ),
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./searchCustomer/search.module').then((m) => m.SearchModule),

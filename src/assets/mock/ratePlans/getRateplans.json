@@ -1,0 +1,6088 @@
+[
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk Text 5GB - 12 Month",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: 5GB (Fast LTE) data per 12 months."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "Freedom Nationwide Talk Text 5GB - 12 Month",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "179",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year Nationwide Talk Text + 4G LTE 5GB",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM : 5GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year Nationwide Talk Text + 4G LTE 5GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "159",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year Nationwide Talk Text + 5GB",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM : 5GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year Nationwide Talk Text + 5GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "159",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year Talk Text + 4G LTE 5GB",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM : 5GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited calls to Canada; Unlimited incoming calls\nNATIONWIDE: $0.05/min. for incoming and outgoing calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year Talk Text + 4G LTE 5GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "129",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year Nationwide Talk Text",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM NATIONWIDE: None" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year Nationwide Talk Text",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "129",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year Talk Text + 5GB",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM : 5GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited calls to Canada; Unlimited incoming calls\nNATIONWIDE: $0.05/min. for incoming and outgoing calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year Talk Text + 5GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "129",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year 50GB + Nationwide Talk Text",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 50GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited messages to Canada; Unlimited incoming messages"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year 50GB + Nationwide Talk Text",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "129",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited + Talk 30GB + 5GB Canada-U.S",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 30GB (Fast LTE).  FREEDOM NATIONWIDE + U.S.: 5GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE + U.S.: Unlimited calls to Canada; Unlimited calls to U.S. from U.S.; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE + U.S.: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited + Talk 30GB + 5GB Canada-U.S",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "120",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk Text 2GB - 6 Months",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 2GB per month (Fast LTE)" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture, and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 6,
+    "name": "Freedom Nationwide Talk Text 2GB - 6 Months",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "119",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk Text 7GB - 3 Months",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 7GB per month (Fast LTE)" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture, and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 3,
+    "name": "Freedom Nationwide Talk Text 7GB - 3 Months",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "109",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk Text 10GB - 3 Months",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 10GB per month (Fast LTE)" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited calls to Canada; Unlimited incoming calls NATIONWIDE: $0.05/min. for incoming and outgoing calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited global text, picture, and video messaging NATIONWIDE: $0.05/message global text, picture, and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 3,
+    "name": "Freedom Nationwide Talk Text 10GB - 3 Months",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "109",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig + Talk 25GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control, Freedom Wi-Fi Access & World Saver.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 25GB (Fast LTE).  FREEDOM NATIONWIDE: 2GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited talk to Canada. Nationwide: Unlimited talk to Canada."
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited global text, picture and video messaging. Nationwide: Unlimited global text."
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig + Talk 25GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "105",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "5G Unlimited 30",
+      "description": "Eligible for Digital Discount ($5/mo. off) when paying by Auto Pay (pre-authorized payment). Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. 5G access included when using a compatible device within Freedom Mobile's 5G network coverage.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 30GB (5G). FREEDOM NATIONWIDE: 2GB." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "5G Unlimited 30",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "105",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk and Text - 12 Month",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "None" }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "Freedom Nationwide Talk and Text - 12 Month",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "99",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year 50GB + Talk Text",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 50GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited calls to Canada; Unlimited incoming calls NATIONWIDE: $0.05/min. for incoming and outgoing calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited messages to Canada; Unlimited incoming messages. NATIONWIDE: $0.05/message global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year 50GB + Talk Text",
+    "description": "Loyalty",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "99",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year 30GB + Talk Text",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 30GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited calls to Canada; Unlimited incoming calls NATIONWIDE: $0.05/min. for incoming and outgoing calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited messages to Canada; Unlimited incoming messages. NATIONWIDE: $0.05/message global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year 30GB + Talk Text",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "99",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "By The Year 100GB + Talk Text",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 100GB for 12 months" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited calls to Canada; Unlimited incoming calls NATIONWIDE: $0.05/min. for incoming and outgoing calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited messages to Canada; Unlimited incoming messages. NATIONWIDE: $0.05/message global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "By The Year 100GB + Talk Text",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "99",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig 25GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control, Freedom Wi-Fi Access & World Saver.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 25GB (Fast LTE).  FREEDOM NATIONWIDE: 2GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited incoming calls; $0.05/min for calls to Canada and the U.S.. Nationwide: $0.05/min. for incoming and outgoing calls to Canada."
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited global text, picture and video messaging. Nationwide: Unlimited global text."
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig 25GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "95",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited + Talk 25GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 25GB (Fast LTE).  FREEDOM NATIONWIDE: 2GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited + Talk 25GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "95",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited + Talk 35GB + 4GB Canada-U.S",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 35GB (Fast LTE).  FREEDOM NATIONWIDE + U.S.: 4GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE + U.S.: Unlimited calls to Canada; Unlimited calls to U.S. from U.S.; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE + U.S.: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited + Talk 35GB + 4GB Canada-U.S",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "95",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Everywhere 90",
+      "description": "10GB full speed allotment Canada and US Long Distance Calling� Canada and US Picture / Video Messaging Global Texting",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "10GB full speed allotment" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "Canada and US Long Distance Calling" }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Canada and US Picture / Video Messaging Global Texting"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Everywhere 90",
+    "description": "Grandfathered",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "90",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo By The Year Talk Text",
+      "description": "Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM NATIONWIDE: N/A" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited calls to Canada; Unlimited incoming calls NATIONWIDE: $0.05/min. for incoming and outgoing calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: Unlimited messages to Canada; Unlimited incoming messages. NATIONWIDE: $0.05/message global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 12,
+    "name": "Promo By The Year Talk Text",
+    "description": "Loyalty",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "89",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited + Talk 15GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 15GB (Fast LTE).  FREEDOM NATIONWIDE: 2GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited + Talk 15GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "80",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Unlimited 100GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 100GB (Fast LTE).FREEDOM NATIONWIDE: 2GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Unlimited 100GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "80",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig 15GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control, Freedom Wi-Fi Access & World Saver.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 15GB (Fast LTE).  FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited incoming calls; $0.05/min for calls to Canada and the U.S.. Nationwide: $0.05/min. for incoming and outgoing calls to Canada."
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited global text, picture and video messaging. Nationwide: Unlimited global text."
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig 15GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "75",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited + Talk 12GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 12GB (Fast LTE).  FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited + Talk 12GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "75",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Big Gig Unlimited + Talk 50GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 50GB (Fast LTE).  FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Big Gig Unlimited + Talk 50GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "70",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Unlimited 100GB Special",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 100GB (Fast LTE).FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Unlimited 100GB Special",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "70",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "5G Unlimited 15 Promo",
+      "description": "Eligible for Digital Discount ($5/mo. off) when paying by Auto Pay (pre-authorized payment). Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. 5G access included when using a compatible device within Freedom Mobile's 5G network coverage.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 15GB (5G). FREEDOM NATIONWIDE: 1GB." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "5G Unlimited 15 Promo",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "65",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "5G Unlimited 20 Promo",
+      "description": "Eligible for Digital Discount ($5/mo. off) when paying by Auto Pay (pre-authorized payment). Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. 5G access included when using a compatible device within Freedom Mobile's 5G network coverage.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 20GB (5G). FREEDOM NATIONWIDE: 2GB." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "5G Unlimited 20 Promo",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "65",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "5G Unlimited 25 Promo",
+      "description": "Eligible for Digital Discount ($5/mo. off) when paying by Auto Pay (pre-authorized payment). Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. 5G access included when using a compatible device within Freedom Mobile's 5G network coverage.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 25GB (5G). FREEDOM NATIONWIDE: 2GB." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "5G Unlimited 25 Promo",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "65",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "5G Unlimited 30 Promo",
+      "description": "Eligible for Digital Discount ($5/mo. off) when paying by Auto Pay (pre-authorized payment). Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. 5G access included when using a compatible device within Freedom Mobile's 5G network coverage.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 30GB (5G). FREEDOM NATIONWIDE: 2GB." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "5G Unlimited 30 Promo",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "65",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Everywhere 60",
+      "description": "10GB full speed allotment, Canada and US Long Distance Calling, Canada and US Picture / Video Messaging Global Texting",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "10GB full speed allotment" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "Canada and US Long Distance Calling" }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "N/A" }],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Everywhere 60",
+    "description": "Grandfathered",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "60",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Big Gig Unlimited + Talk 35GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 35GB (Fast LTE).  FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Big Gig Unlimited + Talk 35GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "60",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Unlimited 50GB Prime",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 50GB (Fast LTE).FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Unlimited 50GB Prime",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "60",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Canada 150",
+      "description": "3GB (full speed Canada wide).International calling from 1�/min to over 200 countries. Unlimited calling to Canada Unlimited text/MMS to Canada and U.S. Unlimited Canada/U.S. picture/video texting. Unlimited global texting.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "3GB (full speed Canada wide). \r\nInternational calling from 1c/min to over 200 countries."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "Unlimited calling to Canada" }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Unlimited text/MMS to Canada and U.S.\r\nUnlimited Canada/U.S. picture/video texting. \r\nUnlimited global texting."
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Canada 150",
+    "description": "Grandfathered",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "55",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig 10GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control, Freedom Wi-Fi Access & World Saver.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: 10GB (full speed). Nationwide: 500MB (full speed)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited incoming calls; $0.05/min for calls to Canada and the U.S.. Nationwide: $0.05/min. for incoming and outgoing calls to Canada."
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Freedom: Unlimited global text, picture and video messaging. Nationwide: Unlimited global text."
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig 10GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "55",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited 10GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 10GB (Fast LTE).  FREEDOM NATIONWIDE: 500MB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited incoming calls; $0.05/min. for calls to Canada"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited 10GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "55",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited + Talk 10GB Special",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 10GB (Fast LTE).  FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited + Talk 10GB Special",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "50",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig Unlimited + Talk 20GB Preferred",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 20GB (Fast LTE). FREEDOM NATIONWIDE: 1 GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig Unlimited + Talk 20GB Preferred",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "50",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Big Gig Unlimited + Talk 30GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM: 30GB (Fast LTE).FREEDOM NATIONWIDE: 1GB (Fast LTE)."
+            }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Big Gig Unlimited + Talk 30GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "50",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom 2GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 2GB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom 2GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "45",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Freedom 10GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 10GB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Freedom 10GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "40",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk + Text + 2GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM NATIONWIDE: 2GB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom Nationwide Talk + Text + 2GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "39",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Prepaid 4G LTE Nationwide Talk + Text 2GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM NATIONWIDE: 2GB (4G LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Prepaid 4G LTE Nationwide Talk + Text 2GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "39",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Freedom 1GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 1GB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Freedom 1GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "35",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk + Text + 1GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM NATIONWIDE: 1GB (Fast LTE)" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom Nationwide Talk + Text + 1GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "34",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom 500MB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 500MB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls."
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom 500MB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "30",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Freedom 5GB Additional Line",
+      "description": "Eligible for Digital Discount ($5/mo. off) when paying by Auto Pay. Learn more at freedommobile.ca /digitaldiscount. NOTE: Plan only available as additional line. If you cancel another line on account, plan will be changed to Freedom 2GB plan ($45/mo.).",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 5GB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Freedom 5GB Additional Line",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "30",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Freedom Nationwide Talk + Text + 1.5GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM NATIONWIDE: 1GB + Bonus 500MB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Freedom Nationwide Talk + Text + 1.5GB",
+    "description": "Limited Offers",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "29",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Prepaid 4G LTE Nationwide Talk + Text 1.5GB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM NATIONWIDE: 1GB + Bonus 500MB (4G LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Prepaid 4G LTE Nationwide Talk + Text 1.5GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "29",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom 25 2017",
+      "description": "Unlimited local calling and Canada/US text & picture messaging.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "N/A" }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Outgoing: 250 minutes of Canada-wide talk; \r\nIncoming: Unlimited"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "Unlimited text, picture and video messaging to Canada and the U.S."
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom 25 2017",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "25",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom Nationwide Talk + Text",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access. $1.50/min international calling.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "None" }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom Nationwide Talk + Text",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "24",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Prepaid Nationwide Talk + Text",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "None" }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Prepaid Nationwide Talk + Text",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "24",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom 20",
+      "description": "Unlimited local calling and Canada/US text & picture messaging.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "$5/100MB up to max. $25/mo" }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "Unlimited Local Talk" }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "Unlimited Canada Text" }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom 20",
+    "description": "Grandfathered",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "20",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Chat 20",
+      "description": "Unlimited Canada -wide calling to any number from any Freedom Zone plus all incoming calls while in any Freedom Zone, Unlimited Canada Text from any Freedom Zone Unlimited, Freedom-to-Freedom calling across Canada from any Freedom Zone.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "$5/100 MB" }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "Unlimited/Canada-wide" }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "Unlimited/Canada wide" }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Chat 20",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "20",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Freedom 250MB",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 250MB (Fast LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: 100 minutes of calls to Canada; Unlimited incoming calls."
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited text, picture and video messaging to Canada and the U.S., and unlimited global picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Freedom 250MB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "20",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Chat",
+      "description": "Unlimited Freedom-to-Freedom calling. Chat for just $15.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "N/A" }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "N/A" }],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "N/A" }],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Chat",
+    "description": "Limited Offers",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "15",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Promo Freedom Additional Line 4G LTE 1GB",
+      "description": "Eligible for Digital Discount ($5/mo. off) when paying by Auto Pay. Learn more at freedommobile.ca /digitaldiscount. NOTE: Plan only available as additional line. If you cancel another line on account, plan will be changed to Freedom 1GB plan ($40/mo.).",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [
+            { "value": "FREEDOM: 1GB (4G LTE)." }
+          ],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited calls to Canada; Unlimited incoming calls"
+            }
+          ],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Promo Freedom Additional Line 4G LTE 1GB",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "15",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Prepaid Nationwide Text",
+      "description": "Eligible for Digital Discount ($5/month off rate plan price) when paying by Auto Pay (pre-authorized payment). Learn more at freedommobile.ca/digitaldiscount. Plan includes: Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "None" }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "None" }],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [
+            {
+              "value": "FREEDOM NATIONWIDE: Unlimited global text, picture and video messaging"
+            }
+          ],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Prepaid Nationwide Text",
+    "description": "Standard",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "14",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  },
+  {
+    "productSpecification": {
+      "name": "Big Gig 10GB Trial Plan",
+      "description": "Learn more at freedommobile.ca/digitaldiscount. Plan includes: Voicemail+, Call Control & Freedom Wi-Fi Access.",
+      "productSpecificationChar": [
+        {
+          "productSpecificationCharValue": [{ "value": "0" }],
+          "name": "isAccepted"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "deviceMsrp"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "upfrontPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "volAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "maxVolAdditionalPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "phoneSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "minYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "currentYouPay"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabTotalBalance"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabAmount"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "myTabMonthlySavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabMonthlyCharge"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": 0 }],
+          "name": "myTabDepletion"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInValue"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "" }],
+          "name": "tradeInBonusSavings"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "FREEDOM: 10GB Data." }],
+          "name": "Data"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "FREEDOM: 1000 min" }],
+          "name": "Talk"
+        },
+        {
+          "productSpecificationCharValue": [{ "value": "FREEDOM: 1000 sms" }],
+          "name": "Text"
+        }
+      ]
+    },
+    "ratePlanPeriod": 1,
+    "name": "Big Gig 10GB Trial Plan",
+    "description": "Limited Offers",
+    "tabType": "SmartTab",
+    "productOfferingPrice": {
+      "price": "0",
+      "name": "RecurringCharge",
+      "recurringChargePeriod": "Monthly"
+    },
+    "type": "RATEPLAN"
+  }
+]
