@@ -65,6 +65,20 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'AddOns',
+    loadChildren: () =>
+      import('./addonSelection/addonSelection.module').then(
+        (m) => m.AddonSelectionModule
+      ),
+  },
+  {
+    path: 'Summary',
+    loadChildren: () =>
+      import('./summary/summary.module').then(
+        (m) => m.SummaryModule
+      ),
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./searchCustomer/search.module').then((m) => m.SearchModule),

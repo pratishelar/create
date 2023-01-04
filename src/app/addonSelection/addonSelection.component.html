@@ -1,0 +1,74 @@
+<div class="container-fluid h-100">
+  <div class="row h-100">
+    <div class="col-sm-9 customerform p-4">
+      <div class="row">
+        <div class="col-sm-9">
+          <h4>Select Addons</h4>
+        </div>
+        <div class="col-sm-3">
+          <h4>Opt-In Features</h4>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-9 scrollbar">
+          <div *ngFor="let addon of addons; let i = index" class="mt-2">
+            <div class="card" *ngIf="!addon.includedService" type="button">
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-2">
+                    <p>${{ addon.monthlyRecurringCharge }}</p>
+                  </div>
+                  <div class="col-10">
+                    <p>{{ addon.displayName }}</p>
+                    <p>{{ addon.description }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div *ngFor="let addon of addons; let i = index" class="mt-3">
+            <div class="form-check" *ngIf="addon.includedService">
+              <input
+                class="form-check-input"
+                type="checkbox"
+                value=""
+                id="flexCheck{{ i }}"
+                checked
+              />
+              <label class="form-check-label" for="flexCheck{{ i }}">
+                {{ addon.displayName }}
+              </label>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-4">
+        <div class="col-sm-6">
+          <button
+            type="button"
+            class="btn btn-outline-primary btn float-left"
+            routerLink="/DeviceSelection"
+          >
+            Back to Device
+          </button>
+        </div>
+        <div class="col-sm-6">
+          <button
+            type="button"
+            class="btn btn-primary btn float-right"
+            routerLink="/AddOns"
+          >
+            Save and continue to Addons
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-3">
+      <app-sideCartPanel></app-sideCartPanel>
+    </div>
+  </div>
+</div>

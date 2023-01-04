@@ -1,0 +1,8 @@
+.customerform{
+    background-color: white;
+}
+
+.scrollbar{
+    overflow: scroll;
+    height: 550px;
+}

@@ -1,0 +1,490 @@
+{
+  "responseMessage": "Success",
+  "productDetails": {
+    "productDetail": [
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "4",
+        "displayName": "Visual Voicemail",
+        "includedService": false,
+        "planName": "Visual Voicemail",
+        "description": "Listen to and manage voicemail from iPhone 5s or newer, without having to dial-in. Available on plans with a data allotment. Accessible over cellular network only.  Service uses data, which may result in additional charges while roaming.",
+        "planId": 1000404,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            { "planName": "Voicemail+", "productName": "Other" },
+            { "planName": "Voicemail", "productName": "Other" },
+            {
+              "planName": "Voicemail and Visual Voicemail",
+              "productName": "Other"
+            }
+          ]
+        },
+        "productName": "Voicemail",
+        "productType": "Add-on"
+      },
+      {
+        "monthlyRecurringCharge": "0",
+        "displayName": "International Calling",
+        "itemValue": "ON",
+        "includedService": true,
+        "description": "International Calling",
+        "productName": "IDD",
+        "productType": "Feature"
+      },
+      {
+        "monthlyRecurringCharge": "0",
+        "displayName": "International Roaming",
+        "itemValue": "ON",
+        "includedService": true,
+        "description": "By activating International Roaming your services will be active while you travel abroad. In order for this feature to work, you must also have the new roaming SIM card from Freedom store. You will be charged pay-per-use while roaming internationally.",
+        "productName": "International Roaming",
+        "productType": "Feature"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "0",
+        "displayName": "Promotional Bonus 20GB Freedom Data",
+        "includedService": false,
+        "planName": "Promotional Bonus 20GB Freedom Data",
+        "description": "Get an additional 20GB of Fast LTE Freedom network data each month.",
+        "planId": 1000640,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "Promotional Bonus 25GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 14GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Test Promotional Bonus Addon",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "10GB Data Upgrade Promo",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 3GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 4GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 5GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Bonus 2GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Bonus 3GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 2GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Bonus 10GB Freedom Nationwide and U.S Addon",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Loyalty 5GB Bonus Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 1GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 8GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 10GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 500MB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 15GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 6GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 7GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 9GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 24GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 750MB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 1.5GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Promotional Bonus 40GB Freedom Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "3GB Full Speed Data",
+              "productName": "Usage rate override"
+            }
+          ]
+        },
+        "productName": "Usage rate override",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "5",
+        "displayName": "Big Gig World Saver - Freedom Nationwide",
+        "includedService": false,
+        "planName": "Big Gig World Saver - Freedom Nationwide",
+        "description": "Get reduced international long distance rates from Freedom Nationwide.",
+        "planId": 1000491,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "World Saver Talk and Text",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Long Distance - China or Hong Kong (300 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - India (200 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Bangladesh (150 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Pakistan or Mexico (100 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Philippines or UK or N Ireland (40 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Jamaica or Nigeria or Ethiopia (20 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Unlimited Long Distance - USA(Prepaid)",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "World Saver - Freedom Nationwide",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Loyalty 1.5GB Freedom Nationwide Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Loyalty 2GB Freedom Nationwide Data",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "World Saver 5 - Freedom Nationwide",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Unlimited U.S. Calling",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Preferred International Calling Rates",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "Shaw Unlimited Long Distance USA",
+              "productName": "Usage rate override"
+            }
+          ]
+        },
+        "productName": "Usage rate override",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "15",
+        "displayName": "1GB Freedom Nationwide Add-On (FS)",
+        "includedService": false,
+        "planName": "1GB Freedom Nationwide Add-On (FS)",
+        "description": "Add 1GB of fast, LTE data to your plan to use on Freedom Nationwide.",
+        "planId": 1000577,
+        "productName": "Usage rate override",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "30",
+        "displayName": "2GB Freedom Nationwide Add-On (FS)",
+        "includedService": false,
+        "planName": "2GB Freedom Nationwide Add-On (FS)",
+        "description": "Add 2GB of fast, LTE data to your plan to use on Freedom Nationwide.",
+        "planId": 1000578,
+        "productName": "Usage rate override",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "45",
+        "displayName": "3GB Freedom Nationwide Add-On (FS)",
+        "includedService": false,
+        "planName": "3GB Freedom Nationwide Add-On (FS)",
+        "description": "Add 3GB of fast, LTE data to your plan to use on Freedom Nationwide.",
+        "planId": 1000579,
+        "productName": "Usage rate override",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "8",
+        "displayName": "World Traveller",
+        "includedService": false,
+        "planName": "World Traveller",
+        "description": "Get reduced rates of 20c/min, 15c/text and $1/MB in over 40 countries in the European Union, North America and the Caribbean with our World Traveller Add-on.",
+        "planId": 1000296,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "3GB Full Speed Data",
+              "productName": "Usage rate override"
+            }
+          ]
+        },
+        "productName": "Usage rate override",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "10",
+        "displayName": "ILD - China or Hong Kong (250 minutes)",
+        "includedService": false,
+        "planName": "ILD - China or Hong Kong (250 minutes)",
+        "description": "Stay in touch with friends and family in China & Hong Kong. Get 250 minutes minutes of long distance calling from Freedom Nationwide.",
+        "planId": 1000625,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "888 ILD Minutes to 5 Destinations",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "1500 ILD Minutes at $5 per mo. to 6 Destinations",
+              "productName": "Free unit add on"
+            }
+          ]
+        },
+        "productName": "Free unit add on",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "10",
+        "displayName": "ILD - India (250 minutes)",
+        "includedService": false,
+        "planName": "ILD - India (250 minutes)",
+        "description": "Stay in touch with friends and family in India. Get 250 minutes minutes of long distance calling from Freedom Nationwide.",
+        "planId": 1000624,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "888 ILD Minutes to 5 Destinations",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "1500 ILD Minutes at $5 per mo. to 6 Destinations",
+              "productName": "Free unit add on"
+            }
+          ]
+        },
+        "productName": "Free unit add on",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "15",
+        "displayName": "ILD - China or Hong Kong (1000 minutes)",
+        "includedService": false,
+        "planName": "ILD - China or Hong Kong (1000 minutes)",
+        "description": "Get 1000 minutes to China or Hong Kong from Freedom Nationwide.",
+        "planId": 1000538,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "888 ILD Minutes to 5 Destinations",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - China or Hong Kong (300 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - India (200 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Bangladesh (150 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Pakistan or Mexico (100 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Philippines or UK or N Ireland (40 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Jamaica or Nigeria or Ethiopia (20 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Unlimited Long Distance - USA(Prepaid)",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "1500 ILD Minutes at $5 per mo. to 6 Destinations",
+              "productName": "Free unit add on"
+            }
+          ]
+        },
+        "productName": "Free unit add on",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "15",
+        "displayName": "ILD - India (1000 minutes)",
+        "includedService": false,
+        "planName": "ILD - India (1000 minutes)",
+        "description": "Get 1000 minutes to India from Freedom Nationwide.",
+        "planId": 1000539,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "888 ILD Minutes to 5 Destinations",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - China or Hong Kong (300 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - India (200 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Bangladesh (150 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Pakistan or Mexico (100 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Philippines or UK or N Ireland (40 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Long Distance - Jamaica or Nigeria or Ethiopia (20 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "Unlimited Long Distance - USA(Prepaid)",
+              "productName": "Usage rate override"
+            },
+            {
+              "planName": "1500 ILD Minutes at $5 per mo. to 6 Destinations",
+              "productName": "Free unit add on"
+            }
+          ]
+        },
+        "productName": "Free unit add on",
+        "productType": "Add-on"
+      },
+      {
+        "provisioned": false,
+        "monthlyRecurringCharge": "5",
+        "displayName": "1500 ILD Minutes at $5 per mo. to 6 Destinations",
+        "includedService": false,
+        "planName": "1500 ILD Minutes at $5 per mo. to 6 Destinations",
+        "description": "Stay in touch with friends and family in select destinations. Get 1500 minutes of long distance calling from Freedom Nationwide.",
+        "planId": 1000654,
+        "incompatibleAddOnDetails": {
+          "incompatibleAddOn": [
+            {
+              "planName": "ILD - China or Hong Kong (250 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "ILD - India (250 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "888 ILD Minutes to 5 Destinations",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "ILD - China or Hong Kong (1000 minutes)",
+              "productName": "Free unit add on"
+            },
+            {
+              "planName": "ILD - India (1000 minutes)",
+              "productName": "Free unit add on"
+            }
+          ]
+        },
+        "productName": "Free unit add on",
+        "productType": "Add-on"
+      },
+      {
+        "monthlyRecurringCharge": "0",
+        "displayName": "National Roaming",
+        "itemValue": "ON",
+        "includedService": true,
+        "description": "National Roaming",
+        "productName": "National Roaming",
+        "productType": "Feature"
+      },
+      {
+        "monthlyRecurringCharge": "0",
+        "displayName": "US Roaming",
+        "itemValue": "ON",
+        "includedService": true,
+        "description": "US Roaming",
+        "productName": "US Roaming",
+        "productType": "Feature"
+      }
+    ]
+  },
+  "responseCode": 0
+}
