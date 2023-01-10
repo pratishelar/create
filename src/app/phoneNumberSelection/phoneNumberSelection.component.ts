@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PhoneNumberSelectionService } from './phoneNumberSelection.service';
 
 @Component({
   selector: 'app-phoneNumberSelection',
@@ -6,10 +7,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./phoneNumberSelection.component.css']
 })
 export class PhoneNumberSelectionComponent implements OnInit {
-
-  constructor() { }
+  
+  constructor() {}
 
   ngOnInit() {
+ 
   }
-
 }

@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./deviceSelection.component.css']
 })
 export class DeviceSelectionComponent implements OnInit {
-
+  hardwareFullfillment;
   constructor() { }
 
   ngOnInit() {

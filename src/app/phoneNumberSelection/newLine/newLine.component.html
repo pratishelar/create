@@ -1,8 +1,15 @@
 <div class="row">
   <div class="col-sm-4">
     <div class="form-group">
-      <label for="exampleFormControlSelect1" class="col-form-label col-form-label-sm">Select Pool</label>
-      <select class="form-control form-control-sm" id="exampleFormControlSelect1">
+      <label
+        for="exampleFormControlSelect1"
+        class="col-form-label col-form-label-sm"
+        >Select Pool</label
+      >
+      <select
+        class="form-control form-control-sm"
+        id="exampleFormControlSelect1"
+      >
         <option>Toronto</option>
         <option>Vancouver</option>
         <option>Edmonton</option>
@@ -10,7 +17,9 @@
     </div>
 
     <div class="form-group">
-      <label for="exampleInputEmail1" class="col-form-label col-form-label-sm">Select Number</label>
+      <label for="exampleInputEmail1" class="col-form-label col-form-label-sm"
+        >Select Number</label
+      >
       <input
         type="text"
         class="form-control form-control-sm"
@@ -26,28 +35,22 @@
   </div>
   <div class="col-sm-8">
     <h5>Available Numbers:</h5>
-    <div class="numbers m-3">
-      <div class="form-check-inline">
-        <label class="form-check-label">
-          <input type="radio" class="form-check-input" name="optradio" />
-          132423234234234
-        </label>
-      </div>
-      <div class="form-check-inline">
-        <label class="form-check-label">
-          <input type="radio" class="form-check-input" name="optradio" />
-          23423424234232
-        </label>
-      </div>
-      <div class="form-check-inline disabled">
-        <label class="form-check-label">
-          <input
-            type="radio"
-            class="form-check-input"
-            name="optradio"
-          />
-          323423423423432
-        </label>
+
+    <div class="row m-2">
+      <div
+        class="col-sm-4 mb-2"
+        *ngFor="let telephoneNumber of telephoneNumbers; let i = index"
+      >
+        <input
+          type="radio"
+          class="form-check-input"
+          name="inlineRadioOptions{{ i }}"
+          id="inlineRadio{{ i }}"
+          value="{{ telephoneNumber.telephoneNumber }}"
+        />
+        <label for="inlineRadio{{ i }}" class="form-check-label">
+          {{ telephoneNumber.telephoneNumber }}</label
+        >
       </div>
     </div>
   </div>

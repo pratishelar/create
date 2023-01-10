@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { PhoneNumberSelectionService } from '../phoneNumberSelection.service';
 
 @Component({
   selector: 'app-newLine',
@@ -7,9 +8,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NewLineComponent implements OnInit {
 
-  constructor() { }
+  telephoneNumbers = [];
+  constructor(private phoneNumberSelectionService: PhoneNumberSelectionService) {}
 
   ngOnInit() {
+    this.phoneNumberSelectionService.getTelephoneNumbers().subscribe((response) => {
+      this.telephoneNumbers = response.telephoneNumber;
+      console.log(response);
+    });
   }
-
 }
