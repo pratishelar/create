@@ -79,6 +79,13 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'ManageAddOns',
+    loadChildren: () =>
+      import('./manageAddOns/manageAddOns.module').then(
+        (m) => m.ManageAddOnsModule
+      ),
+  },
+  {
     path: '**',
     loadChildren: () =>
       import('./searchCustomer/search.module').then((m) => m.SearchModule),
